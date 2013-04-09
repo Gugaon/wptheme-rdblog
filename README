@@ -1,0 +1,35 @@
+
+Templates
+  Landing 01 - Conversion Form
+    rd_token
+    rdlp_link_canonical
+    rdlp_identifier *
+    rdlp_imglogo
+    rdlp_css
+    rdlp_title
+    rdlp_subtitle
+    rdlp_imgfeatured
+    rdlp_topics
+    rdtyp_link *
+  
+  Landing 02 - Pay Conversion
+    rd_token
+    rdlp_link_canonical
+    rdlp_imglogo
+    rdlp_css
+    rdlp_title
+    rdlp_subtitle
+    rdlp_imgfeatured
+    rdlp_topics
+    rdlp_paylink_twitter *
+    rdlp_paylink_facebook *
+  
+  ThankYou 01
+    rd_token
+    rdlp_imglogo
+    rdlp_css
+    rdlp_title
+    rdlp_subtitle
+    rdlp_imgfeatured
+    rdlp_link_canonical
+    rdtyp_content
