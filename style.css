@@ -1,8 +1,8 @@
 @charset utf-8;
 /*
-Theme Name: RD Blog - #Cliente#
+Theme Name: RD Blog - Nexxera
 Theme URI: http://resultadosdigitais.com.br/
-Description: Blog theme for improve Digital Marketing of #Cliente#
+Description: Blog theme for improve Digital Marketing of Nexxera
 Version: 0.2
 Author: Resultados Digitais
 
@@ -12,27 +12,29 @@ Author: Resultados Digitais
 
 #wrapper > nav > ul li a{ color: #ffffff; }
 #wrapper > nav > ul li.current_page_item{ background: #ffffff; }
-#wrapper > nav > ul li.current_page_item a{ color: #313263; }
+#wrapper > nav > ul li.current_page_item a{ color: #333333; }
 #wrapper > nav > ul li:hover{ background: #ffffff; }
-#wrapper > nav > ul li:hover a{ color: #313263; }
+#wrapper > nav > ul li:hover a{ color: #333333; }
 
-a { color: #275A90; }
-a:hover { color: #3e74ad; }
-#wrapper > header > div.desc { color: #ffffff; }
+a { color: #393c40; }
+a:hover { color: #5c6066; }
+#wrapper > header > div.desc { color: #333333; }
 #content > article div.entry header h1 a, 
-  #content > article div.entry header h2 a, 
-  #content > article div.entry header h3 a { color: #275a90; }
+#content > article div.entry header h2 a, 
+#content > article div.entry header h3 a { color: #393c40; }
+
 #content > article div.entry header h1 a:hover, 
-  #content > article div.entry header h2 a:hover, 
-  #content > article div.entry header h3 a:hover { color: #3e74ad; }
+#content > article div.entry header h2 a:hover, 
+#content > article div.entry header h3 a:hover { color: #5c6066; }
 
 #content > article div.entry h1, 
-  #content > article div.entry h2, 
-  #content > article div.entry h3, 
-  #content > article div.entry h4 { color: #275a90; }
+#content > article div.entry h2, 
+#content > article div.entry h3, 
+#content > article div.entry h4 { color: #333333; }
 
-#sidebar .widget-sidebar{ background: #efefef; }
-#sidebar #subscribe { background: #bbc7d3; padding:0 0 25px 0; }
+#sidebar #subscribe {background: #d9d9d9; padding:0 0 25px 0; }
+#sidebar .widget-sidebar{ background: #f2f2f2; }
+
 
 #wrapper > footer { height: 280px; margin: 0 0 -280px 0; }
 #footer-stripe { height: 280px; background-color: #ebebeb; }
