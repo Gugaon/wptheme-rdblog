@@ -10,7 +10,7 @@ a{ text-decoration: none; color: #275a90; font-weight: bold; }
 a:hover{ color: #3e74ad; }
 label{ display: block; }
 
-#wrapper > header{ display: block; height: 115px; width: 100%; overflow: hidden; }
+#wrapper > header{ display: block; height: 113px; width: 100%; overflow: hidden; }
 	#wrapper > header > #headerlogo{ height: 40px; width: 300px; margin: 5px 0 0 0; float: left; }
 		#wrapper > header > #headerlogo a{ display: block; width: 300px; height: 40px; }	
 			#wrapper > header > #headerlogo a span{ display: none; }
@@ -20,12 +20,12 @@ label{ display: block; }
 
 #wrapper > nav{ display: block; width: 700px; height: 35px; }
 	#wrapper > nav > ul{ list-style: none; overflow: hidden; }
-		#wrapper > nav > ul li{ display: block; height: 35px; padding: 0 10px; margin: 0 1px 0 0; float: left; -webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-radius-topleft: 3px; -moz-border-radius-topright: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; }
+		#wrapper > nav > ul li{ display: block; height: 37px; padding: 0 10px; margin: 0 1px 0 0; float: left; -webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-radius-topleft: 3px; -moz-border-radius-topright: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; }
 		#wrapper > nav > ul li.current_page_item{ background: #fff; }
-			#wrapper > nav > ul li a{ display: block; margin: 12px 0 0 0; font-size: 11px; letter-spacing:1px; font-weight: normal; color: #fff; text-transform: uppercase; }
-			#wrapper > nav > ul li.current_page_item a{ color: #444; margin: 10px 0 0 0; }
+			#wrapper > nav > ul li a{ display: block; margin: 12px 0 0 0; font-size: 11px; letter-spacing:1px; font-weight: bol2; color: #fff; text-transform: uppercase; }
+			#wrapper > nav > ul li.current_page_item a{ color: #444; margin: 12px 0 0 0; }
 			#wrapper > nav > ul li:hover{ background: #fff; }
-				#wrapper > nav > ul li:hover a{ color: #444; margin: 10px 0 0 0; }
+				#wrapper > nav > ul li:hover a{ color: #444; margin: 12px 0 0 0; }
 
 #search{ display: block; height: 30px; width: 222px; margin: -30px 0 0 756px; }
 	#search input[type=text]{ float: left; height: 20px; line-height: 20px; width: 195px; margin: 5px 0 0 0; font-size: 11px; background: url(images/background_input_text.png); padding: 0 0 0 5px; color: #666; }
