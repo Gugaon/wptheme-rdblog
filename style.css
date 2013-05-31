@@ -1,8 +1,8 @@
 @charset utf-8;
 /*
-Theme Name: RD Blog - #Cliente#
+Theme Name: RD Blog - e-Genial
 Theme URI: http://resultadosdigitais.com.br/
-Description: Blog theme for improve Digital Marketing of #Cliente#
+Description: Blog theme for improve Digital Marketing of e-Genial
 Version: 0.2
 Author: Resultados Digitais
 
@@ -10,29 +10,29 @@ Author: Resultados Digitais
 
 @import url("default-style.css");
 
-#wrapper > nav > ul li a{ color: #ffffff; }
-#wrapper > nav > ul li.current_page_item{ background: #ffffff; }
-#wrapper > nav > ul li.current_page_item a{ color: #313263; }
-#wrapper > nav > ul li:hover{ background: #ffffff; }
-#wrapper > nav > ul li:hover a{ color: #313263; }
+#wrapper > nav > ul li a      { color: #767689; }
+#wrapper > nav > ul li:hover a      { color: #108ECB; }
+#wrapper > nav > ul li.current_page_item a  { color: #666; }
+#wrapper > nav > ul li:hover      { background: #ffffff; }
+#wrapper > nav > ul li.current_page_item  { background: #ffffff; }
 
-a { color: #275A90; }
-a:hover { color: #3e74ad; }
-#wrapper > header > div.desc { color: #ffffff; }
+a { color: #119FE3; }
+a:hover { color: #00AEEF; }
+#wrapper > header > div.desc { color: #666; width:480px; margin:40px 0 0 0; }
 #content > article div.entry header h1 a, 
   #content > article div.entry header h2 a, 
-  #content > article div.entry header h3 a { color: #275a90; }
+  #content > article div.entry header h3 a { color: #767689; }
 #content > article div.entry header h1 a:hover, 
   #content > article div.entry header h2 a:hover, 
-  #content > article div.entry header h3 a:hover { color: #3e74ad; }
+  #content > article div.entry header h3 a:hover { color: #108ECB; }
 
 #content > article div.entry h1, 
   #content > article div.entry h2, 
   #content > article div.entry h3, 
-  #content > article div.entry h4 { color: #275a90; }
+  #content > article div.entry h4 { color: #666; }
 
 #sidebar .widget-sidebar{ background: #efefef; }
-#sidebar #subscribe { background: #bbc7d3; padding:0 0 25px 0; }
+#sidebar #subscribe { background: #ebebeb; padding:0 0 25px 0; }
 
-#wrapper > footer { height: 280px; margin: 0 0 -280px 0; }
-#footer-stripe { height: 280px; background-color: #ebebeb; }
+#wrapper > footer { height: 380px; margin: 0 0 -380px 0; }
+#footer-stripe { height: 380px; background-color: #ebebeb; }
