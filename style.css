@@ -45,5 +45,8 @@ a:hover { color: #cc7a29; }
 #sidebar .widget-sidebar{ background: #efefef; }
 #sidebar #subscribe { background: #ebebeb; padding:0 0 25px 0; }
 
+#content > article input[type=button], #content > article input[type=submit], #content > #comments input[type=button], #content > #comments input[type=submit] { color: white; background: #f68b1f; }
+#content > article input[type=button]:hover, #content > article input[type=submit]:hover, #content > #comments input[type=button]:hover, #content > #comments input[type=submit]:hover { background: #e58a2e; }
+
 #wrapper > footer { height: 480px; margin: 0 0 -480px 0; }
 #footer-stripe { height: 480px; background-color: #ebebeb; }

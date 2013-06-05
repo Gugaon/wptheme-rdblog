@@ -119,8 +119,8 @@ body.author #content > article{ margin-bottom: 10px; }
 		#wrapper > footer #extras img{ margin: 5px 0; }
 		#wrapper > footer #extras > div{ margin-bottom: 15px; }
 		#wrapper > footer #extras ul.profiles{ list-style: none; overflow: hidden; }
-				#wrapper > footer #extras ul.profiles li{ display: block; width: 24px; height: 24px; float: left; margin: 15px 10px 0 0; padding:0; }
-					#wrapper > footer #extras ul.profiles li a{ display: block; width: 24px; height: 24px; }
+				#wrapper > footer #extras ul.profiles li{ display: block; width: 28px; height: 28px; float: left; margin: 15px 10px 0 0; padding:0; }
+					#wrapper > footer #extras ul.profiles li a{ display: block; width: 28px; height: 28px; }
 						#wrapper > footer #extras ul.profiles li a span{ display: none; }
 	#wrapper > footer hr{ border-bottom: 1px solid #ccc; margin: 10px 0 6px 0; }
 	#wrapper > footer #copyright { text-align:center; font-size: 10px; }
@@ -133,15 +133,33 @@ body.author #content > article{ margin-bottom: 10px; }
 /* Classes */
 body .author, body .more{ font-size: 11px; font-style: italic; }
 body .categories, body .tags{ font-size: 11px; }
-.rss_icon{ display: block; height: 24px; line-height: 24px; text-indent: 30px; background: url(images/sprite.png) -142px -109px no-repeat; }
-.linkedin_icon{ background: url(images/sprite.png) -46px -85px; }
-.linkedin_icon:hover{ background: url(images/sprite.png) -46px -109px; }
-.facebook_icon{ background: url(images/sprite.png) -70px -85px; }
-.facebook_icon:hover{ background: url(images/sprite.png) -70px -109px; }
-.twitter_icon{ background: url(images/sprite.png) -94px -85px; }
-.twitter_icon:hover{ background: url(images/sprite.png) -94px -109px; }
-.email_icon{ background: url(images/sprite.png) -118px -85px; }
-.email_icon:hover{ background: url(images/sprite.png) -118px -109px; }
+.rss_icon{ display: block; height: 28px; line-height: 28px; text-indent: 34px; background: url(images/sprite.png) -350px -85px no-repeat; }
+.rss_icon:hover{ background: url(images/sprite.png) -350px -114px no-repeat; }
+.twitter_icon{ background: url(images/sprite.png) -321px -85px; }
+.twitter_icon:hover{ background: url(images/sprite.png) -321px -114px; }
+.tumblr_icon{ background: url(images/sprite.png) -292px -85px; }
+.tumblr_icon:hover{ background: url(images/sprite.png) -292px -114px; }
+.wordpress_icon{ background: url(images/sprite.png) -263px -85px; }
+.wordpress_icon:hover{ background: url(images/sprite.png) -263px -114px; }
+.pinterest_icon{ background: url(images/sprite.png) -234px -85px; }
+.pinterest_icon:hover{ background: url(images/sprite.png) -234px -114px; }
+.picasa_icon{ background: url(images/sprite.png) -205px -85px; }
+.picasa_icon:hover{ background: url(images/sprite.png) -205px -114px; }
+.linkedin_icon{ background: url(images/sprite.png) -176px -85px; }
+.linkedin_icon:hover{ background: url(images/sprite.png) -176px -114px; }
+.googleplus_icon{ background: url(images/sprite.png) -147px -85px; }
+.googleplus_icon:hover{ background: url(images/sprite.png) -147px -114px; }
+.flickr_icon{ background: url(images/sprite.png) -118px -85px; }
+.flickr_icon:hover{ background: url(images/sprite.png) -118px -114px; }
+.facebook_icon{ background: url(images/sprite.png) -89px -85px; }
+.facebook_icon:hover{ background: url(images/sprite.png) -89px -114px; }
+.email_icon{ background: url(images/sprite.png) -60px -85px; }
+.email_icon:hover{ background: url(images/sprite.png) -60px -114px; }
+.analytics_icon{ background: url(images/sprite.png) -31px -85px; }
+.analytics_icon:hover{ background: url(images/sprite.png) -31px -114px; }
+.youtube_icon{ background: url(images/sprite.png) -2px -85px; }
+.youtube_icon:hover{ background: url(images/sprite.png) -2px -114px; }
+
 .emailthis_button { font-size: 11px; line-height: 14px; }
 
 /* Tab navigation */
