@@ -32,7 +32,7 @@ Template Name: Materiais p/ Download
     <h3>Filtrar itens</h3>
     <ul id="por_categoria">
       <?php
-        $item = get_term_by('slug', 'downloads-tema', 'category');
+        $item = get_term_by('slug', 'resources-categories', 'category');
         $cat_type = get_terms('category', array(
           'parent' => $item->term_id,
           'orderby' => 'name',
@@ -62,7 +62,7 @@ Template Name: Materiais p/ Download
 
   <ul class="resources-grid featured">
     <?php
-      $destaque = get_term_by('slug', 'downloads-destaque', 'category');
+      $destaque = get_term_by('slug', 'resources-highlights', 'category');
       $resources_list_args = array (
         'posts_per_page' => -1,
         'post_type' => 'resources',
