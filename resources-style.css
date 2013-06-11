@@ -13,7 +13,7 @@
 
 #resources hr{ background: #ccc; display: block; height: 1px; float: right; margin: 0 0 20px 20px; width: 100%; }
 
-#resources aside{ background: #eee; border-radius: 5px; display: block; float: left; margin: 0 0 0 5px; width: 200px; }
+#resources aside{ background: #eee; border-radius: 5px; display: block; float: left; margin: 0 0 30px 5px; width: 200px; }
 #resources aside ul{ list-style: none; margin: 0 15px 20px 0; padding-left: 20px; }
 #resources aside ul ul{ margin: 10px 0; }
 #resources aside ul ul ul{ margin: 5px 0 5px 10px; }
