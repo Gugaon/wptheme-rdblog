@@ -89,3 +89,22 @@ function _save_post_resourcelink_meta( $post_id, $post ) {
     delete_post_meta( $post_id, $meta_key, $meta_value );
 }
 
+function create_default_categories() {
+    if (file_exists (ABSPATH.'/wp-admin/includes/taxonomy.php')) {
+        require_once (ABSPATH.'/wp-admin/includes/taxonomy.php'); 
+        if ( ! get_cat_ID( 'Downloads - Categorias' ) ) {
+            wp_insert_category( array('cat_name' => 'Downloads - Categorias', 'category_nicename' => 'resources-categories') );
+        }
+        if ( ! get_cat_ID( 'Downloads - Destaques' ) ) {
+            wp_insert_category( array('cat_name' => 'Downloads - Destaques', 'category_nicename' => 'resources-highlights') );
+        }
+        if ( ! get_cat_ID( 'Downloads - Formatos' ) ) {
+            $cid = wp_insert_category( array('cat_name' => 'Downloads - Formatos', 'category_nicename' => 'resources-formats') );
+            // wp_insert_category( array('cat_name' => 'eBook', 'category_parent' => $cid) );
+            // wp_insert_category( array('cat_name' => 'Webinar', 'category_parent' => $cid) );
+            // wp_insert_category( array('cat_name' => 'Whitepaper', 'category_parent' => $cid) );
+        }
+    }
+}
+add_action ( 'after_setup_theme', 'create_default_categories' );
+
