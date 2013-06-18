@@ -1,0 +1,48 @@
+@charset utf-8;
+
+#resources { position: relative; }
+#resources header { margin-bottom: 20px; position: relative; }
+#resources header hgroup, #resources header #htitle { width:100%; }
+#resources header hgroup h1 { font-size: 28px; margin: 30px 0px 10px 0px; color: #434343; }
+#resources header hgroup h2 { font-size: 14px; font-weight: normal; line-height: 20px; }
+#resources header hgroup #subdesc { width: 70%; }
+
+#resources header div.social-sharing-box { position: absolute; top: 15px; right: 0;}
+#resources header div.social-sharing-box > div.sm-share { float: left; }
+#resources header div.social-sharing-box > div.sm-share+div.sm-share{ margin: 0 0 0 10px; }
+
+#resources hr{ background: #ccc; display: block; height: 1px; float: right; margin: 0 0 20px 20px; width: 100%; }
+
+#resources aside{ background: #eee; border-radius: 5px; display: block; float: left; margin: 0 0 30px 5px; width: 200px; }
+#resources aside ul{ list-style: none; margin: 0 15px 20px 0; padding-left: 20px; }
+#resources aside ul ul{ margin: 10px 0; }
+#resources aside ul ul ul{ margin: 5px 0 5px 10px; }
+#resources aside ul ul ul label{ font-size: 10px; }
+#resources aside li{ display: block; line-height: 14px; }
+#resources aside label{ display: block; margin: 0 0 5px 20px; font-size: 12px; }
+#resources aside input[type=checkbox]{ float: left; margin: 1px 0 5px 0; }
+#resources aside h3{ height: 36px; width: 200px; line-height: 32px; color: white; text-transform: uppercase; font-weight: normal; letter-spacing: 2px; font-size: 11px; text-indent: 15px; background: url(images/sprite-resources_list.png) 0 -550px; margin: 20px 0 20px -5px; }
+
+#resources .resources-grid * { margin:0; padding:0; outline:0; }
+
+#resources .resources-grid{ display: block; float: right; overflow: hidden; list-style: none; width: 710px;}
+#resources .resources-grid > li{ display: block; float: left; margin: 20px 0 0 20px; }
+#resources .resources-grid > li a{ display: block; width: 212px; height: 220px; text-align: center; }
+#resources .resources-grid > li a figure{ background: url(images/resources-shadow.png) no-repeat 0px 165px; position: relative; display: block; }
+#resources .resources-grid > li a figure img{ background: #f7f4f4; border: 1px solid #ddd; padding: 5px; -webkit-transition: margin .2s ease-out; transition: margin .2s ease-out;}
+#resources .resources-grid > li a:hover figure img{ margin: -10px 0 10px; -webkit-transition: margin .2s ease-out; transition: margin .2s ease-out; }
+#resources .resources-grid > li a figure figcaption{ background: url(images/sprite-resources_list.png); color: #444; display: block; font-size: 12px; font-weight: normal; line-height: 260px; overflow: hidden; position: absolute; height: 150px; left: 0; margin: 6px; opacity: 0; text-align: center; top: 0; visibility: hidden; width: 200px; -webkit-transition: margin .2s ease-out, opacity .1s ease-out; transition: margin .2s ease-out, opacity .1s ease-out; }
+#resources .resources-grid > li a:hover figure figcaption{ margin: -4px 6px 6px 6px; opacity: 1; visibility: visible; -webkit-transition: margin .2s ease-out, opacity .1s ease-out; transition: margin .2s ease-out, opacity .1s ease-out; }
+#resources .resources-grid > li a p{ font-size: 14px; line-height: 20px; }
+
+#resources .resources-grid > li.ebook a figure figcaption{ background-position: -10px -5px; }
+#resources .resources-grid > li.webinar a figure figcaption{ background-position: -10px -165px; }
+#resources .resources-grid > li.whitepaper a figure figcaption{ background-position: -10px -325px; }
+
+#resources .resources-grid.featured{ padding: 0 0 20px 0; margin: -20px 0 0 0; }
+#resources .resources-grid.featured > li a{ position: relative; }
+#resources .resources-grid.featured > li a span.featured{ background: url(images/sprite-resources_list.png) no-repeat 0 -480px; display: block; height: 50px; margin: 0; width: 50px; right: 0; text-indent: -5000px; position: absolute; z-index: 9; -webkit-transition: margin .2s ease-out; transition: margin .2s ease-out; }
+#resources .resources-grid.featured > li a:hover span.featured{ margin: -10px 0 10px; -webkit-transition: margin .2s ease-out; transition: margin .2s ease-out; }
+
+#resources p.no-posts{ display: block; float: right; width: 730px;}
+#resources p.no-posts.invisible{ display: none; }
