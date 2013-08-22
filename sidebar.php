@@ -80,6 +80,13 @@
 				</ul>
 			</div> <!-- widget #categories -->
 
+			<div class="banner" style="width: 305px; padding-left: 5px; text-align: center;">
+
+				<img src="<?php bloginfo( 'template_url' ); ?>/images/banner_sidebar.png" />
+
+			</div>
+
+
 			<?php if ( ! dynamic_sidebar( 'Sidebar' ) ) : ?>
 			<?php endif ?>
 
