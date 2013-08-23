@@ -10,38 +10,57 @@ Author: Resultados Digitais
 
 @import url("default-style.css");
 
-#wrapper > nav > ul li a{ color: #ffffff; }
-#wrapper > nav > ul li.current_page_item{ background: #ffffff; }
-#wrapper > nav > ul li.current_page_item a{ color: #313263; }
-#wrapper > nav > ul li:hover{ background: #ffffff; }
-#wrapper > nav > ul li:hover a{ color: #313263; }
+#bg-stripe {height: 150px;margin: 0 0 -150px 0;}
+#wrapper > header {height: 116px;}
+#wrapper > header > #headerlogo {margin:0 0 0 0;}
+#wrapper > header > #headerlogo,
+#wrapper > header > #headerlogo a {height: 116px;width: 360px;}
 
-a { color: #275A90; }
-a:hover { color: #3e74ad; }
-#wrapper > header > div.desc { color: #ffffff; }
+#search {height: 35px;margin-top: -35px;}
+
+#wrapper > nav > ul {margin-top: 2px; }
+#wrapper > nav > ul li {padding: 0 16px;margin:0 2px 0 0;height: 32px;}
+#wrapper > nav > ul li a { color: #1875a1; margin: 8px 0 0 0; text-shadow: 1px 1px rgba(255,255,255,0.4);}
+#wrapper > nav > ul li.current_page_item { background: #ffffff; border-top: 2px solid #1875a1; }
+#wrapper > nav > ul li.current_page_item a { color: #1875a1; margin: 8px 0 0 0;text-shadow:none;}
+#wrapper > nav > ul li:hover { background: #ffffff; border-top: 2px solid #1c88b9;}
+#wrapper > nav > ul li:hover a { color: #1c88b9; margin: 8px 0 0 0;text-shadow:none;}
+
+
+a { color: #1c88b9; }
+a:hover { color: #209bd4; border-bottom-color: #209bd4 !important;}
+a:hover img {border-bottom: none;}
+
+#wrapper > header > div.desc #headertitle {font-weight: 400;font-size: 17px;line-height: 1.6em;}
+#wrapper > header > div.desc {color: #666;width: 500px;text-align: left;margin:40px 0 0 0;}
+#wrapper > header > div.desc h1 {color:#666;}
+#wrapper > header > div.desc h2 {color:#666;}
+
 #content > article div.entry header h1 a, 
-  #content > article div.entry header h2 a, 
-  #content > article div.entry header h3 a { color: #275a90; }
+#content > article div.entry header h2 a, 
+#content > article div.entry header h3 a { color: #1875a1; }
+
 #content > article div.entry header h1 a:hover, 
-  #content > article div.entry header h2 a:hover, 
-  #content > article div.entry header h3 a:hover { color: #3e74ad; }
+#content > article div.entry header h2 a:hover, 
+#content > article div.entry header h3 a:hover { color: #1c88b9; }
 
 #content > article div.entry h1, 
-  #content > article div.entry h2, 
-  #content > article div.entry h3, 
-  #content > article div.entry h4 { color: #275a90; }
+#content > article div.entry h2, 
+#content > article div.entry h3, 
+#content > article div.entry h4 { color: #444; }
 
-#content > article input[type=button], 
-  #content > article input[type=submit], 
-  #content > #comments input[type=button], 
-  #content > #comments input[type=submit] { color: white; background: #f68b1f; }
-#content > article input[type=button]:hover, 
-  #content > article input[type=submit]:hover, 
-  #content > #comments input[type=button]:hover, 
-  #content > #comments input[type=submit]:hover { background: #e58a2e; }
+#sidebar .widget-sidebar{ background: #f2f2f2; }
+#sidebar #subscribe { background: #f1f7fa; padding:0 0 25px 0; }
 
-#sidebar .widget-sidebar{ background: #efefef; }
-#sidebar #subscribe { background: #bbc7d3; padding:0 0 25px 0; }
+#content > article input[type=button],
+#content > article input[type=submit],
+#content > #comments input[type=button],
+#content > #comments input[type=submit] { color: white; background: #f68b1f; }
 
-#wrapper > footer { height: 280px; margin: 0 0 -280px 0; }
-#footer-stripe { height: 280px; background-color: #ebebeb; }
+#content > article input[type=button]:hover,
+#content > article input[type=submit]:hover,
+#content > #comments input[type=button]:hover,
+#content > #comments input[type=submit]:hover { background: #e58a2e; }
+
+#wrapper > footer { height: 370px; margin: 0 0 -370px 0; }
+#footer-stripe { height: 370px; background-color: #e5e1da; }
