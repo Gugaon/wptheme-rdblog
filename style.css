@@ -42,6 +42,7 @@ a:hover { color: #3e74ad; }
 
 #sidebar .widget-sidebar{ background: #efefef; }
 #sidebar #subscribe { background: #bbc7d3; padding:0 0 25px 0; }
+#sidebar .sticky-banner{ width: 305px; padding-left: 5px; text-align: center; }
 
 #wrapper > footer { height: 280px; margin: 0 0 -280px 0; }
 #footer-stripe { height: 280px; background-color: #ebebeb; }

@@ -31,26 +31,5 @@
 
 <?php wp_footer(); ?>
 
-
-	<script>
-		
-		var scrollerTopOffset = $(".banner").offset().top;
-		var scrollerHeight = $(".banner").height();
-		var scrollerTopMargin = (scrollerTopOffset - scrollerHeight) - 20;
-		
-		$(window).scroll(function(){
-
-			var bodyScrollTop = $(window).scrollTop();
-
-			if (bodyScrollTop > scrollerTopMargin ) {
-				$(".banner").css({ position: "fixed", top: "20px" });
-			}
-			else if (bodyScrollTop <= scrollerTopMargin) {
-				$(".banner").css({ position: "relative", top: "" });
-			}					
-		
-		});
-
-	</script>
 </body>
 </html>
