@@ -10,38 +10,79 @@ Author: Resultados Digitais
 
 @import url("default-style.css");
 
-#wrapper > nav > ul li a{ color: #ffffff; }
-#wrapper > nav > ul li.current_page_item{ background: #ffffff; }
-#wrapper > nav > ul li.current_page_item a{ color: #313263; }
-#wrapper > nav > ul li:hover{ background: #ffffff; }
-#wrapper > nav > ul li:hover a{ color: #313263; }
+#bg-stripe {height: 150px;margin: 0 0 -150px 0;}
+#wrapper > header {height: 116px;}
+#wrapper > header > #headerlogo {margin:0 0 0 0;}
+#wrapper > header > #headerlogo,
+#wrapper > header > #headerlogo a {height: 116px;width: 360px;}
 
-a { color: #275A90; }
-a:hover { color: #3e74ad; }
-#wrapper > header > div.desc { color: #ffffff; }
+#search {height: 35px;margin-top: -35px;}
+
+#wrapper > nav > ul {margin-top: 2px; }
+#wrapper > nav > ul li {padding: 0 16px;margin:0 2px 0 0;height: 32px;}
+#wrapper > nav > ul li a { color: #ffffff; margin: 8px 0 0 0; text-shadow: 1px 1px rgba(0,0,0,0.4);}
+#wrapper > nav > ul li.current_page_item { background: #ffffff; border-top: 2px solid #1a3e4d; }
+#wrapper > nav > ul li.current_page_item a { color: #1a3e4d; margin: 8px 0 0 0;text-shadow:none;}
+#wrapper > nav > ul li:hover { background: #ffffff; border-top: 2px solid #235366;}
+#wrapper > nav > ul li:hover a { color: #235366; margin: 8px 0 0 0;text-shadow:none;}
+
+
+a { color: #235366; }
+a:hover { color: #2b6880; border-bottom-color: #2b6880 !important;}
+a:hover img {border-bottom: none;}
+
+#wrapper > header > div.desc #headertitle {font-weight: 400;font-size: 30px;line-height: 1.5em;}
+#wrapper > header > div.desc {color: #235366;width: 500px;text-align: left;margin:22px 0 0 0;}
+
+#wrapper > header > div.desc {
+/*border: 1px solid #DDD;
+padding: 10px 15px;
+background-color: #EDEDE8;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;*/
+font-family:Book Antiqua, Times New Roman;
+}
+#wrapper > header > div.desc #headerdesc {
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+margin: 1px;
+}
+
+#wrapper > header > div.desc h1 {color:#235366;}
+#wrapper > header > div.desc h2 {color:#235366;}
+
+#search {
+height: 33px;
+margin-top: -33px;
+}
+
 #content > article div.entry header h1 a, 
-  #content > article div.entry header h2 a, 
-  #content > article div.entry header h3 a { color: #275a90; }
+#content > article div.entry header h2 a, 
+#content > article div.entry header h3 a { color: #1a3e4d; }
+
 #content > article div.entry header h1 a:hover, 
-  #content > article div.entry header h2 a:hover, 
-  #content > article div.entry header h3 a:hover { color: #3e74ad; }
+#content > article div.entry header h2 a:hover, 
+#content > article div.entry header h3 a:hover { color: #235366; }
 
 #content > article div.entry h1, 
-  #content > article div.entry h2, 
-  #content > article div.entry h3, 
-  #content > article div.entry h4 { color: #275a90; }
+#content > article div.entry h2, 
+#content > article div.entry h3, 
+#content > article div.entry h4 { color: #444; }
 
-#content > article input[type=button], 
-  #content > article input[type=submit], 
-  #content > #comments input[type=button], 
-  #content > #comments input[type=submit] { color: white; background: #f68b1f; }
-#content > article input[type=button]:hover, 
-  #content > article input[type=submit]:hover, 
-  #content > #comments input[type=button]:hover, 
-  #content > #comments input[type=submit]:hover { background: #e58a2e; }
+#sidebar .widget-sidebar{ background: #f5f5ef; }
+#sidebar #subscribe { background: #edede8; padding:0 0 25px 0; }
 
-#sidebar .widget-sidebar{ background: #efefef; }
-#sidebar #subscribe { background: #bbc7d3; padding:0 0 25px 0; }
+#content > article input[type=button],
+#content > article input[type=submit],
+#content > #comments input[type=button],
+#content > #comments input[type=submit] { color: white; background: #f68b1f; }
 
-#wrapper > footer { height: 280px; margin: 0 0 -280px 0; }
-#footer-stripe { height: 280px; background-color: #ebebeb; }
+#content > article input[type=button]:hover,
+#content > article input[type=submit]:hover,
+#content > #comments input[type=button]:hover,
+#content > #comments input[type=submit]:hover { background: #e58a2e; }
+
+#wrapper > footer { height: 370px; margin: 0 0 -370px 0; }
+#footer-stripe { height: 370px; background-color: #e5e1da; }
