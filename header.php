@@ -73,7 +73,7 @@
 		</header>
 		<nav>
 			<ul>
-				<li<?php if ( is_home() ) echo( ' class="current_page_item"' ); ?>><a href="<?php bloginfo( 'siteurl' ); ?>/">Blog</a></li>
+				<li<?php if ( is_home() || is_single() ) echo( ' class="current_page_item"' ); ?>><a href="<?php bloginfo( 'siteurl' ); ?>/">Blog</a></li>
 				<?php wp_list_pages('title_li=&depth=1'); ?>
 			</ul>
 		</nav>
