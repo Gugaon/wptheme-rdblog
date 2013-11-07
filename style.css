@@ -8,13 +8,13 @@ Author: Resultados Digitais
 
 */
 
-@import url("default-style.css");
+@import url("style-default.css");
 
-#wrapper > nav > ul li a{ color: #ffffff; }
-#wrapper > nav > ul li.current_page_item{ background: #ffffff; }
-#wrapper > nav > ul li.current_page_item a{ color: #313263; }
-#wrapper > nav > ul li:hover{ background: #ffffff; }
-#wrapper > nav > ul li:hover a{ color: #313263; }
+#wrapper > nav ul li a{ color: #ffffff; }
+#wrapper > nav ul li.current_page_item{ background: #ffffff; }
+#wrapper > nav ul li.current_page_item a{ color: #313263; }
+#wrapper > nav ul li:hover{ background: #ffffff; }
+#wrapper > nav ul li:hover a{ color: #313263; }
 
 a { color: #275A90; }
 a:hover { color: #3e74ad; }

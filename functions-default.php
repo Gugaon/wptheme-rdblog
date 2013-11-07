@@ -140,9 +140,9 @@ add_theme_support( 'menus' );
 if ( function_exists( 'register_nav_menus' ) ) {
   register_nav_menus(
     array(
-      'header-menu' => 'Header Menu',
-      'sidebar-menu' => 'Sidebar Menu',
-      'footer-menu' => 'Footer Menu'
+      'menu-header' => 'Menu Header',
+      // 'menu-sidebar' => 'Sidebar Menu',
+      // 'menu-footer' => 'Footer Menu',
     )
   );
 }

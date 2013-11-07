@@ -19,13 +19,13 @@ label{ display: block; }
 		#wrapper > header > div.desc #headerdesc{ font-style: italic; font-weight: normal; font-size: 13px; margin:1px; }
 
 #wrapper > nav{ display: block; width: 700px; height: 35px; }
-	#wrapper > nav > ul{ list-style: none; overflow: hidden; }
-		#wrapper > nav > ul li{ display: block; height: 37px; padding: 0 10px; margin: 0 1px 0 0; float: left; -webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-radius-topleft: 3px; -moz-border-radius-topright: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; }
-		#wrapper > nav > ul li.current_page_item{ background: #fff; }
-			#wrapper > nav > ul li a{ display: block; margin: 12px 0 0 0; font-size: 11px; letter-spacing:1px; font-weight: bol2; color: #fff; text-transform: uppercase; }
-			#wrapper > nav > ul li.current_page_item a{ color: #444; margin: 12px 0 0 0; }
-			#wrapper > nav > ul li:hover{ background: #fff; }
-				#wrapper > nav > ul li:hover a{ color: #444; margin: 12px 0 0 0; }
+	#wrapper > nav ul{ list-style: none; overflow: hidden; }
+		#wrapper > nav ul li{ display: block; height: 37px; padding: 0 10px; margin: 0 1px 0 0; float: left; -webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-radius-topleft: 3px; -moz-border-radius-topright: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; }
+		#wrapper > nav ul li.current_page_item{ background: #fff; }
+			#wrapper > nav ul li a{ display: block; margin: 12px 0 0 0; font-size: 11px; letter-spacing:1px; font-weight: bol2; color: #fff; text-transform: uppercase; }
+			#wrapper > nav ul li.current_page_item a{ color: #444; margin: 12px 0 0 0; }
+			#wrapper > nav ul li:hover{ background: #fff; }
+				#wrapper > nav ul li:hover a{ color: #444; margin: 12px 0 0 0; }
 
 #search{ display: block; height: 30px; width: 222px; margin: -30px 0 0 756px; }
 	#search input[type=text]{ float: left; height: 20px; line-height: 20px; width: 195px; margin: 5px 0 0 0; font-size: 11px; background: url(images/background_input_text.png); padding: 0 0 0 5px; color: #666; }
@@ -87,7 +87,9 @@ label{ display: block; }
 			#content nav span { margin: 0 80px; }
 body.page #content > article, body.author #content > article { margin-top: 2px; }
 body.author #content > article{ margin-bottom: 10px; }
-	body.page-template-default #content > article div.entry, body.author #content > article div.entry { width: 610px; float: right; }
+	
+body.page #content > article div.entry, 
+	body.author #content > article div.entry { width: 610px; float: right; }
 
 #sidebar{ width: 311px; float: right; overflow: hidden; }
 	#sidebar a:hover{ border-bottom: 1px dotted #3e74ad; }
