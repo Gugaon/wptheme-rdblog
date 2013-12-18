@@ -1,0 +1,35 @@
+Customize
+
+Site Title:
+Atos da Qualidade
+
+Tagline:
+Atos da Qualidade
+
+Theme Options
+
+Blog header title
+Atos da Qualidade
+
+Blog header description
+Bem-vindo ao blog da Atos da Qualidade! Aqui você recebe dicas sobre o sistema de gestão da qualidade: porque implementar um, SGQ; como implementar, como determinar competências, etc. e também descobre como utilizar o SGQ para melhorar os resultados!
+
+Blog footer description
+<p>A Atos da Qualidade é uma empresa especializada em organizar seus processos para a gestão da qualidade.</p>
+<p>Por meio de consultoria e treinamento, ajudamos nossos clientes a controlar e obter melhores resultados em seus processos e de seu sistema de gestão da qualidade.</p>
+
+Twitter profile name
+-
+
+Facebook page slug or id
+-
+
+Linkedin page id
+-
+	
+Feedburner name	
+-
+
+URL to contact page	
+-
+

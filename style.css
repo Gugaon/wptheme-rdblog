@@ -26,7 +26,7 @@ a:hover img {border-bottom: none;}
 	margin: 0 0 -180px 0;
 	background:none;
 	background-color:#f7f7f7;
-	border-bottom:36px solid #ccc;
+	border-bottom:36px solid #e3e3e3;
 }
 #wrapper > header {height: auto;}
 #wrapper > header > #headerlogo {margin:20px 0;}
@@ -61,7 +61,7 @@ a:hover img {border-bottom: none;}
 	float:none;
 	padding:7px 16px 10px;
 	margin:0;
-	color: #fff;
+	color: #f70103;
 	font-size:13px;
 	font-weight:600;
 	border:none;
@@ -78,9 +78,9 @@ a:hover img {border-bottom: none;}
 
 #wrapper > nav > ul li.current_page_item a {
 	margin:0;
-	color: #e5e5e5;
-	background-color: #808080;
-	border-top:4px solid #808080;
+	color: #fff;
+	background-color: #f70103;
+	border-top:4px solid #f70103;
 	box-shadow:0 0 6px rgba(0,0,0,.25);
 }
 
@@ -133,5 +133,5 @@ a:hover img {border-bottom: none;}
 #content > #comments input[type=button]:hover,
 #content > #comments input[type=submit]:hover { background: #e58a2e; }
 
-#wrapper > footer { height: 320px; margin: 0 0 -320px 0; }
-#footer-stripe { height: 320px; background-color: #e5e1da; }
+#wrapper > footer { height: 260px; margin: 0 0 -260px 0; }
+#footer-stripe { height: 260px; background-color: #e3e3e3; }
