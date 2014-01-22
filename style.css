@@ -5,6 +5,7 @@ Theme URI: http://resultadosdigitais.com.br/
 Description: Blog theme for improve Digital Marketing of #Cliente#
 Version: 0.2
 Author: Resultados Digitais
+//
 
 */
 
@@ -17,8 +18,8 @@ body {
 	color:#222;
 }
 
-a {font-weight:normal;color: #0095b3; }
-a:hover { color: #00aacc; border-bottom-color: #00aacc !important;}
+a {font-weight:normal;color: #b01e28; }
+a:hover { color: #e15d2e; border-bottom-color: #e15d2e !important;}
 a:hover img {border-bottom: none;}
 
 #bg-stripe {
@@ -26,7 +27,7 @@ a:hover img {border-bottom: none;}
 	margin: 0 0 -176px 0;
 	background:none;
 	background-color:white;
-	border-bottom:36px solid #003366;
+	border-bottom:36px solid #b01e28;
 }
 #wrapper > header {height: auto;}
 #wrapper > header > #headerlogo {margin:36px 0;}
@@ -72,8 +73,8 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li a:hover {
 	margin:0;
 	color: #fff;
-	background-color:#5f9f55;
-	border-top-color:#5f9f55;
+	background-color:#e15d2e;
+	border-top-color:#e15d2e;
 	box-shadow:0 0 6px rgba(0,0,0,.25);
 }
 
@@ -82,14 +83,14 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li.current_page_item a {
 	margin:0;
 	color: #fff;
-	background-color:#5f9f55;
-	border-top-color:#5f9f55;
+	background-color:#e15d2e;
+	border-top-color:#e15d2e;
 	box-shadow:0 0 6px rgba(0,0,0,.25);
 }
 
 #wrapper > header > div.desc {
 	color: #808080;
-	width: 600px;
+	width: 330px;
 	text-align: left;
 	margin:38px 0 0 0;
 }
@@ -99,7 +100,7 @@ a:hover img {border-bottom: none;}
 #wrapper > header > div.desc #headerdesc {
 	font-style: normal;
 	margin: 1px;
-	font-size:12px;
+	font-size:18px;
 	line-height:1.33em;
 	color: #808080;
 	font-weight:100;
@@ -111,12 +112,12 @@ a:hover img {border-bottom: none;}
 #content > article div.entry header h2 a, 
 #content > article div.entry header h3 a {
 	line-height:1.3;
-	color: #5f9f55;
+	color: #e15d2e;
 }
 
 #content > article div.entry header h1 a:hover, 
 #content > article div.entry header h2 a:hover, 
-#content > article div.entry header h3 a:hover { color: #73bf45; }
+#content > article div.entry header h3 a:hover { color: #f79146; }
 
 #content > article div.entry header h1, 
 #content > article div.entry header h2, 
@@ -136,5 +137,5 @@ a:hover img {border-bottom: none;}
 #content > #comments input[type=button]:hover,
 #content > #comments input[type=submit]:hover { background: #e58a2e; }
 
-#wrapper > footer { height: 700px; margin: 0 0 -700px 0; }
-#footer-stripe { height: 700px; background-color: #e3e3e3; }
+#wrapper > footer { height: 330px; margin: 0 0 -330px 0; }
+#footer-stripe { height: 330px; background-color: #e3e3e3; }
