@@ -1,39 +1,37 @@
 Branch:
-methalatin
+mb-solucoes-empresariais
 
 
 Customize
 
 Site Title:
-Methalatin
+MB Soluções Empresariais 
 
 Tagline:
-Ferramentas inovadoras em contabilidade para resultados inovadores em gestão.
+MB Soluções Empresariais 
 
 Theme Options
 
 Blog header title
-Renaccon
+MB Soluções 
 
 Blog header description
-Núcleo de Educação Especializado em Desenvolver Cursos on line para diversas áreas do conhecimento visando atualizar, aperfeiçoar e formar agentes transformadores da sociedade. O projeto de educação à distância foi estruturado com temas de interesse para capacitação profissional, divididos em áreas do conhecimento e apresentados nas modalidades: Formação Profissional, Especialista e Atualização.
+Soluções Empresariais para a sua Empresa: Diagnóstico Empresarial, Consultoria Estratégica, Assessment Center, Mapeamento de Competências, Desenvolvimento de Líderes, Coaching, Treinamentos Corporativos, Cursos EAD, Pesquisa de Clima Organizacional, Gestão de Metas/Desempenho, Gestão de Carreira.
 
 Blog footer description
-<p>A Methalatin, fundada em 1999, trilhou seu caminho nas áreas de consultoria e treinamento presencial. Depois de criar bases e tradição, abre caminho para um novo mundo virtual e chega em 2014 com foco na produção de cursos on line. O ponto focal é contribuir para que todas as pessoas que se relacionem conosco, cresçam profissionalmente e sejam felizes naquilo que fazem! Objetivamos fazer a diferença na vida de cada uma delas. Queremos ter um pontinho de participação quando elas estiveram conosco e de forma dinâmica, saber quando elas forem reconhecidas em seu trabalho, promovidas, escolhidas para um novo projeto, ou ainda abrirem seu próprio negócio entre outros avanços. Um pontinho no lugar certo, pode mudar tudo!</p>
-<p>Nosso compromisso começa antes da venda. Queremos ajudar nossos alunos e potenciais alunos, a escolher e a comprar a qualificação que precisam de fato, nem mais, nem menos. Para tal, desenvolvemos testes de avaliação do conhecimento do que será aprendido, os TAC’s. O aluno pode decidir se o curso/treinamento que ele quer comprar, trará o conhecimento que busca.</p>
-<p>Gerar a melhor experiência com ensino à distância, para que nosso aluno sinta-se motivado à aprender e a usar isso para crescer profissionalmente e ser feliz naquilo que ele faz!</p>
+<p>A MB Soluções Empresariais é uma consultoria especializada em soluções para empresas que buscam a evolução de seus negócios. Integrando soluções customizadas, habilidades técnicas, expertise de mais de 25 anos e profissionais capacitados em diversos segmentos de mercado, a MB Soluções Empresariais desenvolve projetos para sua empresa através da redução de custos com pessoas e processos, melhoria do desempenho profissional e aumento da produtividade.</p>
 
 Twitter profile name
-MethalatinEAD
+mbsolucoesemp
 
 Facebook page slug or id
-eadmethalatin
+-
 
 Linkedin page id
-5024037
+http://www.linkedin.com/pub/mb-solu%C3%A7%C3%B5es-empresariais/25/b18/928
 	
 Feedburner name	
 -
 
 URL to contact page
-http://methalatin.com.br/
+http://mbsolucoesempresariais.blogspot.com.br/
