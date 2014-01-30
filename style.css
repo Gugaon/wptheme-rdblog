@@ -18,21 +18,21 @@ body {
 	color:#222;
 }
 
-a {font-weight:normal;color: #AB0D0D; }
-a:hover { color: #e55c5c; border-bottom-color: #e55c5c !important;}
+a {font-weight:normal;color: #950012; }
+a:hover { color: #bc0017; border-bottom-color: #bc0017 !important;}
 a:hover img {border-bottom: none;}
 
 #bg-stripe {
 	height: 144px;
 	margin: 0 0 -176px 0;
 	background:none;
-	background-color:white;
-	border-bottom:36px solid #AB0D0D;
+	background-color:black;
+	border-bottom:36px solid #950012;
 }
 #wrapper > header {height: auto;}
-#wrapper > header > #headerlogo {margin:36px 0;}
+#wrapper > header > #headerlogo {margin:23px 0;}
 #wrapper > header > #headerlogo,
-#wrapper > header > #headerlogo a {width:300px;height: 64px;}
+#wrapper > header > #headerlogo a {width: 175px;height: 90px;;}
 #wrapper > header > #headerlogo a img {height:100%;}
 
 #search {
@@ -73,8 +73,8 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li a:hover {
 	margin:0;
 	color: #fff;
-	background-color:#e55c5c;
-	border-top-color:#e55c5c;
+	background-color:#bc0017;
+	border-top-color:#bc0017;
 	box-shadow:0 0 6px rgba(0,0,0,.15);
 }
 
@@ -83,16 +83,16 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li.current_page_item a {
 	margin:0;
 	color: #fff;
-	background-color:#e55c5c;
-	border-top-color:#e55c5c;
+	background-color:#bc0017;
+	border-top-color:#bc0017;
 	box-shadow:0 0 6px rgba(0,0,0,.75);
 }
 
 #wrapper > header > div.desc {
-	color: #808080;
-	width: 510px;
-	text-align: left;
-	margin: 30px 0 0 0;
+color: #808080;
+width: 610px;
+text-align: left;
+margin: 45px 0 0 0;
 }
 #wrapper > header > div.desc #headertitle {
 	display:none;
@@ -100,9 +100,9 @@ a:hover img {border-bottom: none;}
 #wrapper > header > div.desc #headerdesc {
 	font-style: normal;
 	margin: 1px;
-	font-size:14px;
+	font-size:16px;
 	line-height:1.33em;
-	color: #808080;
+	color: #CCCCCC;
 	font-weight:100;
 }
 
@@ -112,12 +112,12 @@ a:hover img {border-bottom: none;}
 #content > article div.entry header h2 a, 
 #content > article div.entry header h3 a {
 	line-height:1.3;
-	color: #ab0d0d;
+	color: #950012;
 }
 
 #content > article div.entry header h1 a:hover, 
 #content > article div.entry header h2 a:hover, 
-#content > article div.entry header h3 a:hover { color: #e55c5c; }
+#content > article div.entry header h3 a:hover { color: #bc0017; }
 
 #content > article div.entry header h1, 
 #content > article div.entry header h2, 

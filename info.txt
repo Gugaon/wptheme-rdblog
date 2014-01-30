@@ -1,37 +1,37 @@
 Branch:
-mb-solucoes-empresariais
+direitoadm
 
 
 Customize
 
 Site Title:
-MB Soluções Empresariais 
+Direito Administrativo
 
 Tagline:
-MB Soluções Empresariais 
+Direito Administrativo
 
 Theme Options
 
 Blog header title
-MB Soluções 
+Direito Administrativo
 
 Blog header description
-Soluções Empresariais para a sua Empresa: Diagnóstico Empresarial, Consultoria Estratégica, Assessment Center, Mapeamento de Competências, Desenvolvimento de Líderes, Coaching, Treinamentos Corporativos, Cursos EAD, Pesquisa de Clima Organizacional, Gestão de Metas/Desempenho, Gestão de Carreira.
+Conceitos e técnicas afinadas com as novas orientações jurisprudenciais e legislativas. Conteúdos reflexivos de Direito Administrativo. Questões de concurso comentadas. 
 
 Blog footer description
 <p>A MB Soluções Empresariais é uma consultoria especializada em soluções para empresas que buscam a evolução de seus negócios. Integrando soluções customizadas, habilidades técnicas, expertise de mais de 25 anos e profissionais capacitados em diversos segmentos de mercado, a MB Soluções Empresariais desenvolve projetos para sua empresa através da redução de custos com pessoas e processos, melhoria do desempenho profissional e aumento da produtividade.</p>
 
 Twitter profile name
-mbsolucoesemp
-
-Facebook page slug or id
 -
 
+Facebook page slug or id
+direitoadm
+
 Linkedin page id
-http://www.linkedin.com/pub/mb-solu%C3%A7%C3%B5es-empresariais/25/b18/928
+-
 	
 Feedburner name	
 -
 
 URL to contact page
-http://mbsolucoesempresariais.blogspot.com.br/
+http://www.direitoadm.com.br/home/
