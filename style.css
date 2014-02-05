@@ -26,7 +26,7 @@ a:hover img {border-bottom: none;}
 	height: 144px;
 	margin: 0 0 -176px 0;
 	background:none;
-	background-color:white;
+	background-color:#D6D6D6;
 	border-bottom:36px solid #AB0D0D;
 }
 #wrapper > header {height: auto;}
