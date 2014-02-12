@@ -1,39 +1,37 @@
 Branch:
-methalatin
+Movicargas
 
 
 Customize
 
 Site Title:
-Methalatin
+Movicargas
 
 Tagline:
-Ferramentas inovadoras em contabilidade para resultados inovadores em gestão.
+Novas tecnologias e aplicações criativas na movimentação de cargas
 
 Theme Options
 
 Blog header title
-Renaccon
+Movicargas
 
 Blog header description
-Núcleo de Educação Especializado em Desenvolver Cursos on line para diversas áreas do conhecimento visando atualizar, aperfeiçoar e formar agentes transformadores da sociedade. O projeto de educação à distância foi estruturado com temas de interesse para capacitação profissional, divididos em áreas do conhecimento e apresentados nas modalidades: Formação Profissional, Especialista e Atualização.
+Novas tecnologias e aplicações criativas na movimentação de cargas
 
 Blog footer description
-<p>A Methalatin, fundada em 1999, trilhou seu caminho nas áreas de consultoria e treinamento presencial. Depois de criar bases e tradição, abre caminho para um novo mundo virtual e chega em 2014 com foco na produção de cursos on line. O ponto focal é contribuir para que todas as pessoas que se relacionem conosco, cresçam profissionalmente e sejam felizes naquilo que fazem! Objetivamos fazer a diferença na vida de cada uma delas. Queremos ter um pontinho de participação quando elas estiveram conosco e de forma dinâmica, saber quando elas forem reconhecidas em seu trabalho, promovidas, escolhidas para um novo projeto, ou ainda abrirem seu próprio negócio entre outros avanços. Um pontinho no lugar certo, pode mudar tudo!</p>
-<p>Nosso compromisso começa antes da venda. Queremos ajudar nossos alunos e potenciais alunos, a escolher e a comprar a qualificação que precisam de fato, nem mais, nem menos. Para tal, desenvolvemos testes de avaliação do conhecimento do que será aprendido, os TAC’s. O aluno pode decidir se o curso/treinamento que ele quer comprar, trará o conhecimento que busca.</p>
-<p>Gerar a melhor experiência com ensino à distância, para que nosso aluno sinta-se motivado à aprender e a usar isso para crescer profissionalmente e ser feliz naquilo que ele faz!</p>
+<p>Eng. Marcos Ribeiro é o fundador da blog Movicargas.</p>
+<p>Empreendedor por definição, abre aqui um espaço de discussão e troca de ideias sobre novas tecnologias e aplicações criativas na movimentação de cargas. Coloca nesse tema sua contribuição para ver um Brasil melhor!</p>
 
 Twitter profile name
-MethalatinEAD
+movicargas
 
 Facebook page slug or id
-eadmethalatin
+movicargas
 
 Linkedin page id
-5024037
+
 	
 Feedburner name	
--
+
 
 URL to contact page
-http://methalatin.com.br/
