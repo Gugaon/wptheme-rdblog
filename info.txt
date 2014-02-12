@@ -1,37 +1,39 @@
 Branch:
-Movicargas
+estudare
 
 
 Customize
 
 Site Title:
-Movicargas
+Estudare
 
 Tagline:
-Novas tecnologias e aplicações criativas na movimentação de cargas
+Cursos de pós graduação em Odontologia.
 
 Theme Options
 
 Blog header title
-Movicargas
+Estudare
 
 Blog header description
-Novas tecnologias e aplicações criativas na movimentação de cargas
+A escola “Estudare - Cursos de Pós Graduação em Odontologia”  surgiu através do sonho de seus idealizadores de ministrar cursos de Especialização em uma escola própria. Após 17 anos de experiência ministrando cursos de Ortodontia em outras entidades, o sonho tornou-se um objetivo de vida e com isso foi fundada a escola ESTUDARE em 18 de Setembro de 2010.<p>Nossa missão é ser uma escola modelo de pós-graduação em odontologia.</p>
 
 Blog footer description
-<p>Eng. Marcos Ribeiro é o fundador da blog Movicargas.</p>
-<p>Empreendedor por definição, abre aqui um espaço de discussão e troca de ideias sobre novas tecnologias e aplicações criativas na movimentação de cargas. Coloca nesse tema sua contribuição para ver um Brasil melhor!</p>
+<p><big>ESTUDARE – Cursos de pós graduação em Odontologia</big></p>
+<p><strong>“O Conhecimento gerando valores para você”</strong></p>
+<p>A Estudare é uma escola focada em ministrar cursos de pós graduação em Odontologia e esta muito bem estruturada e  localizada em uma região privilegiada de Ribeirão Preto-SP onde nós preparamos nossos alunos para enfrentarem a grande concorrência do mercado Odontológico.</p>
 
 Twitter profile name
-movicargas
+-
 
 Facebook page slug or id
-movicargas
+estudareodontologia
 
 Linkedin page id
-
+-
 	
 Feedburner name	
-
+-
 
 URL to contact page
+http:// www.estudare.com.br
