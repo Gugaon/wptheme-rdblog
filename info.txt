@@ -1,32 +1,36 @@
 Branch:
-Movicargas
+nepp
 
 
 Customize
 
 Site Title:
-Movicargas
+NEPP
 
 Tagline:
-Novas tecnologias e aplicações criativas na movimentação de cargas
+O NEPP é um núcleo de estudos em Psicanálise oferecemos cursos de mestrado e Doutorado, além de terapias e análises individuais e em grupo.
 
 Theme Options
 
 Blog header title
-Movicargas
+NEPP
 
 Blog header description
-Novas tecnologias e aplicações criativas na movimentação de cargas
+O NEPP é um núcleo de estudos em Psicanálise oferecemos cursos de mestrado e Doutorado, além de terapias e análises individuais e em grupo.<br />(31) 3241-2042 | http://www.nepp.com.br/ 
 
 Blog footer description
-<p>Eng. Marcos Ribeiro é o fundador da blog Movicargas.</p>
-<p>Empreendedor por definição, abre aqui um espaço de discussão e troca de ideias sobre novas tecnologias e aplicações criativas na movimentação de cargas. Coloca nesse tema sua contribuição para ver um Brasil melhor!</p>
+<p><strong>Em palavras:</strong> Oferecemos saber.</p>
+<p>Trabalhamos o seu inconsciente.</p>
+<p>Quebramos suas resistências  para você crescer.</p>
+<p>Desejamos e alimentamos o seu querer.</p>
+<p>O NEPP promove o seu bem viver.</p>
+<p>Profº Sérgio Costa.</p>
 
 Twitter profile name
-movicargas
+costaneppbh
 
 Facebook page slug or id
-movicargas
+neppcursos
 
 Linkedin page id
 
@@ -35,3 +39,4 @@ Feedburner name
 
 
 URL to contact page
+http://www.nepp.com.br/fale-conosco.php
