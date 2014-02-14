@@ -1,36 +1,32 @@
 Branch:
-nepp
+sos
 
 
 Customize
 
 Site Title:
-NEPP
+S.O.S Educação Profissional
 
 Tagline:
-O NEPP é um núcleo de estudos em Psicanálise oferecemos cursos de mestrado e Doutorado, além de terapias e análises individuais e em grupo.
+CHEGA DE AMADORISMO! VENHA PARA A S.O.S E APRENDA NO NÍVEL DOS MELHORES PROFISSIONAIS!
 
 Theme Options
 
 Blog header title
-NEPP
+S.O.S Educação Profissional
 
 Blog header description
-O NEPP é um núcleo de estudos em Psicanálise oferecemos cursos de mestrado e Doutorado, além de terapias e análises individuais e em grupo.<br />(31) 3241-2042 | http://www.nepp.com.br/ 
+<strong>CHEGA DE AMADORISMO!</strong>VENHA PARA A S.O.S E APRENDA NO NÍVEL DOS MELHORES PROFISSIONAIS!
 
 Blog footer description
-<p><strong>Em palavras:</strong> Oferecemos saber.</p>
-<p>Trabalhamos o seu inconsciente.</p>
-<p>Quebramos suas resistências  para você crescer.</p>
-<p>Desejamos e alimentamos o seu querer.</p>
-<p>O NEPP promove o seu bem viver.</p>
-<p>Profº Sérgio Costa.</p>
+<p>Com 30 anos de existência, a S.O.S. Educação Profissional é uma rede de ensino técnico e profissionalizante de com mais de 150 escolas em todo o País. Pertencente desde 2010 ao Grupo Multi – a rede oferece cursos profissionalizantes com foco diferentes áreas do conhecimento, como informática, finanças, empreendedorismo, gestão de projetos, áudio e vídeo, além de cursos reconhecidos e certificados pela Microsoft.</p>
+<p>Recentemente, a S.O.S. passou a oferecer também cursos de inglês, com o objetivo de oferecer uma proposta de ensino ainda mais completa para seus alunos.</p>
 
 Twitter profile name
-costaneppbh
+soseducacao
 
 Facebook page slug or id
-neppcursos
+soseducacao
 
 Linkedin page id
 
@@ -39,4 +35,4 @@ Feedburner name
 
 
 URL to contact page
-http://www.nepp.com.br/fale-conosco.php
+http://www.sos.com.br/contato
