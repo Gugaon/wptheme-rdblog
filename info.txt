@@ -1,38 +1,39 @@
 Branch:
-sos
+cellmidia
 
 
 Customize
 
 Site Title:
-S.O.S Educação Profissional
+Canal do Saber
 
 Tagline:
-CHEGA DE AMADORISMO! VENHA PARA A S.O.S E APRENDA NO NÍVEL DOS MELHORES PROFISSIONAIS!
+Estratégias e ferramentas para gestão de relacionamento
 
 Theme Options
 
 Blog header title
-S.O.S Educação Profissional
+Cellmídia
 
 Blog header description
-<strong>CHEGA DE AMADORISMO!</strong>VENHA PARA A S.O.S E APRENDA NO NÍVEL DOS MELHORES PROFISSIONAIS!
+Adquira novos clientes com a Cellmídia tornando seu negócio conhecido para uma poderosa base de 5 milhões de consumidores. <br>Faça uso inteligente de campanhas de SMS integrado ao e-mail marketing e torne sua lista de contatos um verdadeiro ativo de vendas para sua empresa.
 
 Blog footer description
-<p>Com 30 anos de existência, a S.O.S. Educação Profissional é uma rede de ensino técnico e profissionalizante de com mais de 150 escolas em todo o País. Pertencente desde 2010 ao Grupo Multi – a rede oferece cursos profissionalizantes com foco diferentes áreas do conhecimento, como informática, finanças, empreendedorismo, gestão de projetos, áudio e vídeo, além de cursos reconhecidos e certificados pela Microsoft.</p>
-<p>Recentemente, a S.O.S. passou a oferecer também cursos de inglês, com o objetivo de oferecer uma proposta de ensino ainda mais completa para seus alunos.</p>
+A Cellmídia oferece serviços inteligentes de comunicação por SMS e e-mail marketing para bases de contatos segmentadas. 
+<p>Avalie contratar a Cellmídia se você deseja divulgar e promover seus produtos para novos clientes em uma comunidade com mais de 5 milhões de consumidores.</p>
+<p>Conte conosco se você possui uma lista de contatos e deseja se comunicar de maneira relevante com seus clientes.</p>
 
 Twitter profile name
-soseducacao
+cellmidia
 
 Facebook page slug or id
-soseducacao
+-
 
 Linkedin page id
-
+cellm-dia
 	
 Feedburner name	
 
 
 URL to contact page
-http://www.sos.com.br/contato
+http://www.cellmidia.com.br/
