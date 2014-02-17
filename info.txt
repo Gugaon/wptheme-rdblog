@@ -5,7 +5,7 @@ canaldosaber
 Customize
 
 Site Title:
-Canal do Saber
+Setting Consultoria em gestão empresarial
 
 Tagline:
 Canal do Saber - Soluções Educacionais
@@ -13,19 +13,20 @@ Canal do Saber - Soluções Educacionais
 Theme Options
 
 Blog header title
-Canal do Saber - Soluções Educacionais
+Consultoria em gestão empresarial
 
 Blog header description
-Espaço dedicado à produção de informações em Educação a Distância (EAD), com ênfase à graduação, pós-graduação e extensão; apoio ao aluno, elo entre universidade e estudante, referência em geração de conhecimento.
+Atua no planejamento, desenvolvimento e gestão, contribuindo com as organizações para que alcancem melhores resultados.
 
 Blog footer description
-<p>O CANAL DO SABER SOLUÇÕES EDUCACIONAIS, como o nome já diz, é responsável por solucionar questões referentes ao relacionamento aluno/universidade em seis polos de apoio presencial localizados em Blumenau, Joinville, Curitiba, Lages, Caxias do Sul e Chapecó; com seu blog e outras mídias, proporciona apoio online a milhares de estudantes de Ensino a Distância (EAD) em todo o Brasil.</p>
+<p>A Setting Consultoria, é especializada em gestão empresarial e está há 27 anos no mercado. Unindo metodologia e tecnologia oferece serviços de consultoria em Planejamento Estratégico, Redesenho de Processos e  implantação do BSC e do “Escritório de Gestão”.  A equipe reúne competências tais como: gestão estratégica, gestão de projetos, gestão de processos, governança corporativa, gestão de pessoas, gestão orçamentária e financeira.</p>
+<p>Entre em contato conosco e saiba mais sobre nossos serviços.</p>
 
 Twitter profile name
-canal_saber
+-
 
 Facebook page slug or id
-unisulvirtualcanaldosaber
+settingconsultoria
 
 Linkedin page id
 -
@@ -34,4 +35,4 @@ Feedburner name
 -
 
 URL to contact page
-http://www.canaldosaber.com/
+http://www.setting.com.br/fale-conosco.asp

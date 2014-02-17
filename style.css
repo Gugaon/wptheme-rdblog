@@ -11,27 +11,31 @@ Author: Resultados Digitais
 @import url("style-default.css");
 
 body {
-	font-family: Tahoma, Geneva, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Tahoma, Geneva, sans-serif;
 	font-size:13px;
 	line-height:1.8;
 	color:#222;
 }
 
-a {font-weight:normal;color: #0359a9; }
-a:hover { color: #0359a9; border-bottom-color: #0359a9;}
+a {font-weight:normal;color: #0385d3; }
+a:hover { color: #0297ed; border-bottom-color: #0297ed;}
 a:hover img {border-bottom: none;}
 
 #bg-stripe {
 	height: 144px;
-	margin: 0 0 -176px 0;
+	margin: 0 0 -182px 0;
 	background:none;
+	background-image: url(images/background_website.png);
+	background-repeat:no-repeat;
+	background-position:center top;
 	background-color:white;
-	border-bottom: 36px solid #0359a9;
+	border-top:4px solid #a5a5a5;
+	border-bottom: 36px solid #c9e5f3;
 }
 #wrapper > header {height: auto;}
-#wrapper > header > #headerlogo {margin:13px 0;}
+#wrapper > header > #headerlogo {margin:20px 0;}
 #wrapper > header > #headerlogo,
-#wrapper > header > #headerlogo a {width: 360px;height: 110px;}
+#wrapper > header > #headerlogo a {width: 145px;height: 102px;}
 #wrapper > header > #headerlogo a img {height:100%;}
 
 #search {
@@ -65,15 +69,15 @@ a:hover img {border-bottom: none;}
 	border-top-style:solid;
 	border-top-color:transparent;
 	margin:0;
-	color: white;
+	color: #0385d3;
 	font-size:13px;
 	font-weight:600;
 }
 #wrapper > nav > ul li a:hover {
 	margin:0;
 	color: #fff;
-	background-color:#01215b;
-	border-top-color:#01215b;
+	background-color:#0385d3;
+	border-top-color:#0385d3;
 	box-shadow:0 0 6px rgba(0,0,0,.25);
 }
 
@@ -82,27 +86,32 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li.current_page_item a {
 	margin:0;
 	color: #fff;
-	background-color: #01215b;
-	border-top-color: #01215b;
+	background-color: #0385d3;
+	border-top-color: #0385d3;
 	box-shadow:0 0 6px rgba(0,0,0,.25);
 }
 
 #wrapper > header > div.desc {
 	color: #808080;
-	width: 570px;
+	width: 450px;
 	text-align: left;
-	margin:15px 0 0 0;
+	margin:32px 0 0 0;
 }
 #wrapper > header > div.desc #headertitle {
-	display:none;
+	font-style: normal;
+	margin: 0;
+	font-size: 20px;
+	line-height: 1.66em;
+	color: #808080;
+	font-weight: 200;
 }
 #wrapper > header > div.desc #headerdesc {
 	font-style: normal;
-	margin: 16px 0;
-	font-size: 15px;
+	margin: 0;
+	font-size: 14px;
 	line-height: 1.66em;
 	color: #808080;
-	font-weight: 100;
+	font-weight: 200;
 }
 
 #wrapper > section {margin: 50px 0 0 0;}
@@ -111,12 +120,12 @@ a:hover img {border-bottom: none;}
 #content > article div.entry header h2 a, 
 #content > article div.entry header h3 a {
 	line-height:1.3;
-	color: #0359a9;
+	color: #0297ed;
 }
 
 #content > article div.entry header h1 a:hover, 
 #content > article div.entry header h2 a:hover, 
-#content > article div.entry header h3 a:hover { color: #3379d5; }
+#content > article div.entry header h3 a:hover { color: #0287d4; }
 
 #content > article div.entry header h1, 
 #content > article div.entry header h2, 
@@ -136,5 +145,5 @@ a:hover img {border-bottom: none;}
 #content > #comments input[type=button]:hover,
 #content > #comments input[type=submit]:hover { background: #e58a2e; }
 
-#wrapper > footer { height: 0px; margin: 0px; }
-#footer-stripe { height: 330px; margin-top: 0px; background-color: #e3e3e3; }
+#wrapper > footer { height: 360px; margin: 0; }
+#footer-stripe { height: 360px; margin-top: -360px; background-color: #e3e3e3; }
