@@ -1,5 +1,5 @@
 Branch:
-cellmidia
+canaldosaber
 
 
 Customize
@@ -8,32 +8,30 @@ Site Title:
 Canal do Saber
 
 Tagline:
-Estratégias e ferramentas para gestão de relacionamento
+Canal do Saber - Soluções Educacionais
 
 Theme Options
 
 Blog header title
-Cellmídia
+Canal do Saber - Soluções Educacionais
 
 Blog header description
-Adquira novos clientes com a Cellmídia tornando seu negócio conhecido para uma poderosa base de 5 milhões de consumidores. <br>Faça uso inteligente de campanhas de SMS integrado ao e-mail marketing e torne sua lista de contatos um verdadeiro ativo de vendas para sua empresa.
+Espaço dedicado à produção de informações em Educação a Distância (EAD), com ênfase à graduação, pós-graduação e extensão; apoio ao aluno, elo entre universidade e estudante, referência em geração de conhecimento.
 
 Blog footer description
-A Cellmídia oferece serviços inteligentes de comunicação por SMS e e-mail marketing para bases de contatos segmentadas. 
-<p>Avalie contratar a Cellmídia se você deseja divulgar e promover seus produtos para novos clientes em uma comunidade com mais de 5 milhões de consumidores.</p>
-<p>Conte conosco se você possui uma lista de contatos e deseja se comunicar de maneira relevante com seus clientes.</p>
+<p>O CANAL DO SABER SOLUÇÕES EDUCACIONAIS, como o nome já diz, é responsável por solucionar questões referentes ao relacionamento aluno/universidade em seis polos de apoio presencial localizados em Blumenau, Joinville, Curitiba, Lages, Caxias do Sul e Chapecó; com seu blog e outras mídias, proporciona apoio online a milhares de estudantes de Ensino a Distância (EAD) em todo o Brasil.</p>
 
 Twitter profile name
-cellmidia
+canal_saber
 
 Facebook page slug or id
--
+unisulvirtualcanaldosaber
 
 Linkedin page id
-cellm-dia
+-
 	
 Feedburner name	
-
+-
 
 URL to contact page
-http://www.cellmidia.com.br/
+http://www.canaldosaber.com/
