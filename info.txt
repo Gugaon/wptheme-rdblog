@@ -1,32 +1,33 @@
 Branch:
-canaldosaber
+R. Bassani
 
 
 Customize
 
 Site Title:
-Setting Consultoria em gestão empresarial
+R. Bassani
 
 Tagline:
-Canal do Saber - Soluções Educacionais
+Sistemas construtivos de alto desempenho
 
 Theme Options
 
 Blog header title
-Consultoria em gestão empresarial
+Sistemas construtivos de alto desempenho:
 
 Blog header description
-Atua no planejamento, desenvolvimento e gestão, contribuindo com as organizações para que alcancem melhores resultados.
+performance em tempo, redução de entulhos, ganho de área útil, versatilidade de acabamento, facilidade de manutenção.
 
 Blog footer description
-<p>A Setting Consultoria, é especializada em gestão empresarial e está há 27 anos no mercado. Unindo metodologia e tecnologia oferece serviços de consultoria em Planejamento Estratégico, Redesenho de Processos e  implantação do BSC e do “Escritório de Gestão”.  A equipe reúne competências tais como: gestão estratégica, gestão de projetos, gestão de processos, governança corporativa, gestão de pessoas, gestão orçamentária e financeira.</p>
-<p>Entre em contato conosco e saiba mais sobre nossos serviços.</p>
+<p>A R. Bassani é uma empresa do segmento de construção seca, especializada em drywall, forros modulares e sistemas acústicos.</p>
+<p>Atuamos na execução de obras e projetos e na distribuição e revenda de materiais.</p>
+<p>O pioneirismo nesta tecnologia no Brasil garante nossos diferenciais de qualidade.</p>
 
 Twitter profile name
-setting_consult
+rbassani
 
 Facebook page slug or id
-settingconsultoria
+rbassani.drywall
 
 Linkedin page id
 -
@@ -35,4 +36,4 @@ Feedburner name
 -
 
 URL to contact page
-http://www.setting.com.br/fale-conosco.asp
+http://www.bassani.com.br/Contato.aspx
