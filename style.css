@@ -38,13 +38,13 @@ a:hover img {border-bottom: none;}
 
 #search {
 	height: 42px;
-	margin:-42px 0 0 748px;
+	margin:-94px 0 40px 748px;
 	width:230px;
 }
 #search input[type=text] {margin:12px 0 0 0;width: 203px;}
 #search input[type=submit] {margin:12px 0 0 0;}
 
-#wrapper > nav {width:748px;height: 42px;}
+#wrapper > nav {width:978px;height: 42px;}
 #wrapper > nav > ul {
 	margin:0;
 }
@@ -61,7 +61,7 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li a {
 	display:inline-block;
 	float:none;
-	padding:7px 16px 10px;
+	padding:7px 14px 10px;
 	border:none;
 	border-top-width:4px;
 	border-top-style:solid;
@@ -94,7 +94,7 @@ a:hover img {border-bottom: none;}
 color: #808080;
 width: 610px;
 text-align: left;
-margin: 45px 0 0 0;
+margin: 30px 0 0 0;
 }
 #wrapper > header > div.desc #headertitle {
 	display:none;
