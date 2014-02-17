@@ -23,7 +23,7 @@ Blog footer description
 <p>Entre em contato conosco e saiba mais sobre nossos serviços.</p>
 
 Twitter profile name
--
+setting_consult
 
 Facebook page slug or id
 settingconsultoria
