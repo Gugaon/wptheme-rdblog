@@ -93,23 +93,37 @@ body.author #content > article div.entry { width: 610px; float: right; }
 
 #sidebar{ width: 311px; float: right; overflow: hidden; }
 #sidebar a:hover{ border-bottom: 1px dotted #3e74ad; }
-#sidebar .widget-sidebar{ background: #f6f6f6; border: 1px solid #ddd; margin: 0 0 20px 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
-#sidebar .widget-sidebar h3{ height: 36px; width: 290px; line-height: 32px; color: #fff; text-transform: uppercase; font-weight: normal; letter-spacing:2px; font-size: 11px; text-indent:15px; background: url(images/sprite.png) 0 -5px; margin: 15px 0 15px -5px; }
+#sidebar .widget-sidebar{ padding: 5px 0 5px 0;background: #f6f6f6; margin: 0 0 20px 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+#sidebar .widget-sidebar h3 { height: 36px; width: 311px; line-height: 32px; color: #fff; text-transform: uppercase; font-weight: normal; letter-spacing:2px; font-size: 11px; text-indent:15px; background: url(images/sprite.png) 0 -5px; margin: 10px 0 17px -5px; }
 #sidebar .widget-sidebar div { font-size: 11px; line-height: 14px; }
 #sidebar .widget-sidebar div p { margin: 0 0 8px 0; }
-#sidebar .widget-sidebar ul { margin: 0 20px 30px 20px; list-style: none; font-size: 11px; }
-#sidebar .widget-sidebar ul ul { margin: 0 0 5px 30px; list-style: disc; font-size: 11px; }
+#sidebar .widget-sidebar ul { margin: 0 30px; list-style: none; font-size: 13px; }
+#sidebar .widget-sidebar ul ul { margin: 0 0 5px 30px; list-style: disc; font-size: 13px; }
 
-#sidebar #subscribe{ background: #bbc7d3; }
+#sidebar #subscribe { background: #bbc7d3; padding-bottom:25px;}
 #sidebar #subscribe > a, #sidebar #subscribe > span, 
 #sidebar #subscribe > form, #sidebar #subscribe > iframe{ display: block; margin: 10px 20px 5px 30px !important; }
 #sidebar #subscribe a:hover{ border: none; }
 #sidebar #subscribe form{ display: block; overflow: hidden; }
-#sidebar #subscribe form label{ font-size: 12px; }
+#sidebar #subscribe form label{ font-size: 13px; }
 #sidebar #subscribe form input[type=text]{ float: left; height: 20px; line-height: 20px; padding: 0 0 0 5px; width: 215px; color: #666; font-size: 11px; background: url(images/background_input_text.png); margin: 10px 0 0 0; border: none; }
 #sidebar #subscribe form input[type=submit]{ float: left; height: 20px; width: 22px; background: url(images/background_input_submit.png); margin: 10px 0 0 0; cursor: pointer; }
 
 #sidebar #sidebar_banner{ height: 120px; margin: 0 0 20px 5px; background: #efefef; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; border: 1px solid #fff; }
+
+
+/* Tab navigation */
+ul.tabs { margin: 0 30px; list-style: none; height: 24px;}
+ul.tabs li { float: left; height: 24px; line-height: 24px; margin: 0; overflow: hidden; position: relative; padding: 0; border: 1px solid transparent; border-bottom-color:#bfbfbf;}
+ul.tabs li a { font-size: 12px; line-height: 24px; display: block; padding: 0 8px; outline: none; }
+html ul.tabs li.active { border-top-color:#bfbfbf; border-left-color:#bfbfbf; border-right-color:#bfbfbf;border-bottom-color:transparent;}
+.tab_content { margin: 0; }
+.tab_content ul { list-style: disc; font-size: 13px; line-height: 14px; }
+.tab_content ul li { margin: 0 0 20px 0; }
+
+.widget-sidebar ul li { margin: 0 0 20px 0; }
+
+
 
 #wrapper > footer{ display: block; height: 280px; margin: 0 0 -280px 0; }
 #wrapper > footer > header{ width: 230px; height: 40px; margin: -5px 0 15px 0; background: url(images/sprite.png) 0 -45px; }
@@ -164,14 +178,7 @@ body .categories, body .tags{ font-size: 11px; }
 
 .emailthis_button { font-size: 11px; line-height: 14px; }
 
-/* Tab navigation */
-ul.tabs { margin: 0 20px; list-style: none; height: 21px; border-bottom: 1px solid #bfbfbf; }
-ul.tabs li { float: left; height: 20px; line-height: 20px; margin-bottom: -1px; overflow: hidden; position: relative; margin: 0; padding: 0; }
-ul.tabs li a { font-size: 11px; line-height: 20px; display: block; padding: 0 10px; border: 1px solid #efefef; outline: none; }
-html ul.tabs li.active { border-top: 1px solid #bfbfbf; border-left: 1px solid #bfbfbf; border-right: 1px solid #bfbfbf; border-bottom: 1px solid #efefef; }
-.tab_content { margin: 20px 20px 20px 40px; }
-.tab_content ul{ list-style: disc; font-size: 11px; line-height: 14px; }
-.tab_content ul li{ margin: 0 0 5px 0; }
+
 
 
 /* Miscellaneous
@@ -192,3 +199,22 @@ img.border {
 .alignright { float: right; }
 .entry .alignright { margin: 0 0 10px 15px; }
 .entry .alignleft { margin: 0 15px 10px 0; }
+
+#searchform label {
+	margin:15px 30px;
+	font-size: 13px;
+}
+#searchform input[type=text] {
+margin: 0 5px 20px 30px;
+font-size: 13px;
+border-radius: 3px;
+line-height:26px;
+text-indent: 10px;
+}
+#searchform input[type=submit] {
+border-radius: 3px;
+font-size: 13px;
+line-height: 26px;
+padding: 0 8px;
+cursor:pointer;
+}
