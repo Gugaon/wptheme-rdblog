@@ -1,6 +1,5 @@
 Branch:
-canaldosaber
-
+setting
 
 Customize
 
@@ -8,7 +7,7 @@ Site Title:
 Setting Consultoria em gestão empresarial
 
 Tagline:
-Canal do Saber - Soluções Educacionais
+Setting Consultoria em gestão empresarial
 
 Theme Options
 
