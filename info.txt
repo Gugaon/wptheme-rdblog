@@ -1,37 +1,37 @@
 Branch:
-direitoadm
+capital-ativo
 
 
 Customize
 
 Site Title:
-Direito Administrativo
+Capital Ativo
 
 Tagline:
-Direito Administrativo
+Sistema de Gestão para micro e pequenas empresas muito fácil de se usar.
 
 Theme Options
 
 Blog header title
-Direito Administrativo
+Capital Ativo
 
 Blog header description
-Conceitos e técnicas afinadas com as novas orientações jurisprudenciais e legislativas. Conteúdos reflexivos de Direito Administrativo. Questões de concurso comentadas. 
+Sistema de Gestão para micro e pequenas empresas muito fácil de se usar.
 
 Blog footer description
-<p>A MB Soluções Empresariais é uma consultoria especializada em soluções para empresas que buscam a evolução de seus negócios. Integrando soluções customizadas, habilidades técnicas, expertise de mais de 25 anos e profissionais capacitados em diversos segmentos de mercado, a MB Soluções Empresariais desenvolve projetos para sua empresa através da redução de custos com pessoas e processos, melhoria do desempenho profissional e aumento da produtividade.</p>
+<p>Gerencie a evolução do seu negócio, controle o seu fluxo de caixa e tenha todas as informações que você precisa para tomar as melhores decisões e se tornar uma grande empresa.</p>
 
 Twitter profile name
 -
 
 Facebook page slug or id
-direitoadm
+sistemafiterp
 
 Linkedin page id
 -
-	
-Feedburner name	
+
+Feedburner name
 -
 
 URL to contact page
-http://www.direitoadm.com.br/home/
+http://fiterp.com.br/
