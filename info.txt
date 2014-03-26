@@ -1,37 +1,39 @@
 Branch:
-capital-ativo
+cellmidia
 
 
 Customize
 
 Site Title:
-Capital Ativo
+Canal do Saber
 
 Tagline:
-Sistema de Gestão para micro e pequenas empresas muito fácil de se usar.
+Estratégias e ferramentas para gestão de relacionamento
 
 Theme Options
 
 Blog header title
-Capital Ativo
+Cellmídia
 
 Blog header description
-Sistema de Gestão para micro e pequenas empresas muito fácil de se usar.
+Adquira novos clientes com a Cellmídia tornando seu negócio conhecido para uma poderosa base de 5 milhões de consumidores. <br>Faça uso inteligente de campanhas de SMS integrado ao e-mail marketing e torne sua lista de contatos um verdadeiro ativo de vendas para sua empresa.
 
 Blog footer description
-<p>Gerencie a evolução do seu negócio, controle o seu fluxo de caixa e tenha todas as informações que você precisa para tomar as melhores decisões e se tornar uma grande empresa.</p>
+A Cellmídia oferece serviços inteligentes de comunicação por SMS e e-mail marketing para bases de contatos segmentadas. 
+<p>Avalie contratar a Cellmídia se você deseja divulgar e promover seus produtos para novos clientes em uma comunidade com mais de 5 milhões de consumidores.</p>
+<p>Conte conosco se você possui uma lista de contatos e deseja se comunicar de maneira relevante com seus clientes.</p>
 
 Twitter profile name
--
+cellmidia
 
 Facebook page slug or id
-sistemafiterp
+-
 
 Linkedin page id
--
+cellm-dia
+	
+Feedburner name	
 
-Feedburner name
--
 
 URL to contact page
-http://fiterp.com.br/
+http://www.cellmidia.com.br/
