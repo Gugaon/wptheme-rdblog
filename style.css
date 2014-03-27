@@ -25,8 +25,8 @@ a:hover img {border-bottom: none;}
 	height: 144px;
 	margin: 0 0 -176px 0;
 	background:none;
-	background-color: #0f325b;
-	border-bottom: 36px solid #D5D5D5;
+	background-color: white;
+	border-bottom: 36px solid #10a64b;
 }
 
 #wrapper > header {height: auto;}
@@ -40,8 +40,8 @@ a:hover img {border-bottom: none;}
 	margin:-42px 0 0 748px;
 	width:230px;
 }
-#search input[type=text] {margin:12px 0 0 0;width: 203px;}
-#search input[type=submit] {margin:12px 0 0 0;}
+#search input[type=text] {margin:8px 0 0 0;width: 203px;}
+#search input[type=submit] {margin:8px 0 0 0;}
 
 #wrapper > nav {width:748px;height: 42px;}
 #wrapper > nav > ul {
@@ -58,20 +58,20 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li a {
 	display:inline-block;
 	float:none;
-	padding: 5px 25px 5px;
+	padding: 4px 25px 5px;
 	border:none;
 	border-top-width:4px;
 	border-top-style:solid;
 	border-top-color:transparent;
 	margin:0;
-	color: #1d85c0;
+	color: white;
 	font-size:13px;
 	font-weight:600;
 }
 #wrapper > nav > ul li a:hover {
 	margin:0;
 	color: white;
-	background-color:#1a9ee1;
+	background-color:#016939;
 	box-shadow:0 0 6px rgba(0,0,0,.25);
 }
 
@@ -79,25 +79,25 @@ a:hover img {border-bottom: none;}
 
 #wrapper > nav > ul li.current_page_item a {
 	margin:0;
-	color: #1a9ee1;
+	color: #10a64b;
 	background-color: #FFFFFF;
 }
 
 #wrapper > header > div.desc {
 	color: #808080;
-	width: 600px;
+	width: 500px;
 	text-align: left;
-	margin:15px 0 0 0;
+	margin:17px 0 0 0;
 }
 #wrapper > header > div.desc #headertitle {
 	display:none;
 }
 #wrapper > header > div.desc #headerdesc {
 	font-style: normal;
-	margin: 38px;
-	font-size: 18px;
+	margin: 33px;
+	font-size: 21px;
 	line-height: 1.3em;
-	color: white;
+	color: #10a64b;
 	font-weight: 100;
 }
 
@@ -107,20 +107,20 @@ a:hover img {border-bottom: none;}
 #content > article div.entry header h2 a, 
 #content > article div.entry header h3 a {
 	line-height:1.3;
-	color: #153c4d;
+	color: #016939;
 }
 
 #content > article div.entry header h1 a:hover, 
 #content > article div.entry header h2 a:hover, 
-#content > article div.entry header h3 a:hover { color: #1a9ee1; }
+#content > article div.entry header h3 a:hover { color: #10a64b; }
 
 #content > article div.entry header h1, 
 #content > article div.entry header h2, 
 #content > article div.entry header h3, 
 #content > article div.entry header h4 { font-weight:200;line-height:1.3;}
 
-#sidebar #subscribe { background: #D5D5D5; }
-#sidebar .widget-sidebar{ background: #e3e3e3; border:none;padding: 5px 0 25px 0;}
+#sidebar #subscribe { background: #eeeeee; }
+#sidebar .widget-sidebar{ background: #eeeeee; border:none;padding: 5px 0 25px 0;}
 
 #content > article input[type=button],
 #content > article input[type=submit],
@@ -136,7 +136,7 @@ a:hover img {border-bottom: none;}
 
 #wrapper > footer > header span {line-height: 25px;}
 
-#footer-stripe { height: 400px; margin-top: 0px; background-color: #D5D5D5; }
+#footer-stripe { height: 400px; margin-top: 0px; background-color: #ebebeb; }
 
 #search input[type=text] {
 margin: 10px 0 0 0;
@@ -149,7 +149,7 @@ margin: 10px 0 0 0;
 
 #wrapper > footer #description {
 font-size: 16px;
-color: white;
+color: gray;
 }
 
 #wrapper > footer hr {

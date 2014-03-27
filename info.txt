@@ -1,37 +1,38 @@
 Branch:
-hubvendas
+magrass
 
 
 Customize
 
 Site Title:
-HUB VENDAS
+MAGRASS Gyn Jardim Goiás
 
 Tagline:
-HUB VENDAS - Especialistas em vendas
+MAGRASS Gyn Jardim Goiás - Magrass Jardim Goiás emagrecimento saudável e estética de resultado
 
 Theme Options
 
 Blog header title
-Hub Vendas
+Magrass Jardim Goiás
 
 Blog header description
-Bem Vindo ao seu Hub de Vendas. Somos Especializados em Vendas e podemos lhe ajudar a Vender Mais e Melhor !
+Magrass Jardim Goiás emagrecimento saudável e estética de resultado.
 
 Blog footer description
-A Hub Vendas é uma empresa Especializada em Alta Performance de Vendas Através de uma metodologia própria "Os 7Ps de vendas ", atuamos com cursos de vendas, consultoria de vendas, treinamentos de Vendas e Geração de leads para conversão em Vendas. Ajudamos nossos clientes Venderem Mais e Melhor,  contribuindo para o crescimento da empresa de uma forma equilibrada e sustentável.
+A Magrass Jardim Goiás é especializada em emagrecimento saudável e estética de resultado.
+Nos ajudamos você a alcançar uma melhor qualidade de vida e bem estar através do emagrecimento saudável, alcançado por uma metodologia própria e comprovada, o programa metabólico, além de oferecer os mais avançados procedimentos estéticos faciais e corporais para potencializar sua beleza.
 
 Twitter profile name
 -
 
 Facebook page slug or id
-hubvendas
+magrass.gynjardimgoias
 
 Linkedin page id
-hub-vendas
+-
 	
 Feedburner name	
 -
 
 URL to contact page
-http://www.hubvendas.com.br/
+-
