@@ -1,33 +1,40 @@
 Branch:
-performancepessoal
+gineco
 
 Customize
 
 Site Title:
-Performance Pessoal & Profissional
+Gineco Medical Laser
 
 Tagline:
-Performance Pessoal & Profissional - Por Uma Vida Extraordinária!
+Gineco Medical Laser - Novidade nos tratamentos ginecológicos.
 
 Theme Options
 
 Blog header title
-Performance Pessoal
+Gineco Medical Laser
 
 Blog header description
-Por Uma Vida Extraordinária!
+<p>Novidade nos tratamentos ginecológicos.</p>
+Gineco Medical Laser - Solução de ponta, completa e integrada em
+tratamentos laser em ginecologia, incluindo um pacote de serviços suporte
+clínico e de negócios ao médico, sem necessidade de investimentos em
+equipamentos e sua manutenção.
 
 Blog footer description
-Performance Pessoal é uma plataforma online dedicado às pessoas que desejam intensamente por uma vida extraordinária e feliz. Aqui você vai encontrar informações sobre desenvolvimento pessoal, dicas legais e materiais gratuitos para ajudar você viver uma vida extraordinária. Seja bem vindo!!!
+<p>Tratamentos indolores, sem cirurgia e com procedimentos de curta duração para:</p>
+Atrofia, Ressecamento e alargamento vaginal, Incontinência urinária,
+Pro-lapso vaginal, Clareamento de lábios entre outros procedimentos de
+rejuvenescimento vaginal.
 
 Twitter profile name
-performapessoal
+GinecoMedical
 
 Facebook page slug or id
-performancepessoal
+ginecomedical
 
 Linkedin page id
--
+gineco-medical-laser
 	
 Feedburner name	
 -
