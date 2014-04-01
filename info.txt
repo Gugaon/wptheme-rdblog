@@ -1,0 +1,36 @@
+Branch:
+performance
+
+Customize
+
+Site Title:
+Performance Pessoal
+
+Tagline:
+Performance Pessoal & Profissional - Por Uma Vida Extraordinária!
+
+Theme Options
+
+Blog header title
+Performance Pessoal
+
+Blog header description
+Por Uma Vida Extraordinária!
+
+Blog footer description
+Performance Pessoal é uma plataforma online dedicado às pessoas que desejam intensamente por uma vida extraordinária e feliz. Aqui você vai encontrar informações sobre desenvolvimento pessoal, dicas legais e materiais gratuitos para ajudar você viver uma vida extraordinária. Seja bem vindo!!!
+
+Twitter profile name
+performapessoal
+
+Facebook page slug or id
+performancepessoal
+
+Linkedin page id
+-
+	
+Feedburner name	
+-
+
+URL to contact page
+-
