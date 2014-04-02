@@ -13,7 +13,7 @@ Author: Resultados Digitais
 body {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size:13px;
-	line-height:1.8;
+	line-height:1.8;`
 	color:#222;
 }
 
@@ -23,9 +23,10 @@ a:hover img {border-bottom: none;}
 
 #bg-stripe {
 	height: 200px;
-	margin: 0 0 -155px 0;
+	margin: 0 0 -202px 0;
 	background: none;
-	background-color: #355d91;
+	background-color: #FFFFFF;
+	border-bottom: 36px solid #1D4881;
 }
 
 #wrapper > header {height: auto;}
@@ -70,8 +71,7 @@ a:hover img {border-bottom: none;}
 #wrapper > nav > ul li a:hover {
 	margin:0;
 	color: white;
-	background-color: #8C5688;
-	box-shadow:0 0 6px rgba(0,0,0,.25);
+	background-color: gray;
 }
 
 #wrapper > nav > ul li:hover a {margin:0;}
@@ -94,7 +94,7 @@ a:hover img {border-bottom: none;}
 	margin: 42px 0 42px 42px;
 	font-size: 18px;
 	line-height: 1.3em;
-	color: #FFFFFF;
+	color: #291672;
 	font-weight: 100;
 }
 
@@ -151,4 +151,8 @@ color: gray;
 
 #wrapper > footer hr {
 border-bottom: 1px solid #C7C7C7;
+}
+
+#wrapper > header > div.desc {
+width: 700px;
 }

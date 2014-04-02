@@ -1,30 +1,30 @@
 Branch:
-performance
+alertaseguros
 
 Customize
 
 Site Title:
-Performance Pessoal
+Alerta Seguros
 
 Tagline:
-Performance Pessoal & Profissional - Por Uma Vida Extraordinária!
+Alerta Seguros - Segurança no que faz.
 
 Theme Options
 
 Blog header title
-Performance Pessoal
+Alerta Seguros
 
 Blog header description
-Por Uma Vida Extraordinária!
+SEGURANÇA NO QUE FAZ. Formada por profissionais experientes do mercado segurador,agilizamos todos os pagamentos de indenizações através de nossa equipe. Contate-nos e encontre o seguro ideal para as suas necessidades.
 
 Blog footer description
-Performance Pessoal é uma plataforma online dedicado às pessoas que desejam intensamente por uma vida extraordinária e feliz. Aqui você vai encontrar informações sobre desenvolvimento pessoal, dicas legais e materiais gratuitos para ajudar você viver uma vida extraordinária. Seja bem vindo!!!
+A Alerta Corretora de Seguros foi fundada em 15 de outubro de 1981, em Brasília – DF. Desde então, tem sido uma referência no mercado segurador do Centro Oeste, inclusive ganhando diversos prêmios do mercado segurador, dentre eles: Prêmio Bamerindus (case de sucesso em prestação de serviço) e Troféu Alvorada (corretor destaque) edições 2005, 2006 e 2009.
 
 Twitter profile name
-performapessoal
+-
 
 Facebook page slug or id
-performancepessoal
+-
 
 Linkedin page id
 -
