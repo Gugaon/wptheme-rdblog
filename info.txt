@@ -1,0 +1,36 @@
+Branch:
+loite
+
+Customize
+
+Site Title:
+Loite
+
+Tagline:
+Loite - Orientação de Carreira, Coaching de Carreira e Preparação para Processos Seletivos.
+
+Theme Options
+
+Blog header title
+Loite
+
+Blog header description
+Orientação de Carreira, Coaching de Carreira e Preparação para Processos Seletivos.
+
+Blog footer description
+Da mesma forma que você precisou descobrir o curso que gostaria de fazer e também se preparar para ser aprovado em uma faculdade, agora precisará identificar seu potencial, em que tipo de trabalho gostaria de aplicá-lo e se preparar para ser aceito neste processo. Terá mais chances quem estiver mais bem preparado.
+
+Twitter profile name
+LoiteCareers
+
+Facebook page slug or id
+pages/Loite-Career-Startup/247863734033
+
+Linkedin page id
+loite
+	
+Feedburner name	
+-
+
+URL to contact page
+mailto:admin@loite.com
