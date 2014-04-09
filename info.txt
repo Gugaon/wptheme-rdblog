@@ -1,37 +1,45 @@
 Branch:
-hubvendas
-
+mlg
 
 Customize
 
 Site Title:
-HUB VENDAS
+Grupo MLG
 
 Tagline:
-HUB VENDAS - Especialistas em vendas
+Grupo MLG - Especializada no Recrutamento e Seleção de profissionais
 
 Theme Options
 
 Blog header title
-Hub Vendas
+Grupo MLG
 
 Blog header description
-Bem Vindo ao seu Hub de Vendas. Somos Especializados em Vendas e podemos lhe ajudar a Vender Mais e Melhor !
+header
+Especializada no Recrutamento e Seleção de profissionais, a MLG Recursos Humanos atua apoiando clientes na captação de talentos em ambientes complexos e cada vez mais competitivos. Sua atuação é em nível Brasil, disponibilizando também o serviço de terceirização da área de Recrutamento e Seleção, alem de Pesquisas de Remuneração e Clima Organizacional.
+
 
 Blog footer description
-A Hub Vendas é uma empresa Especializada em Alta Performance de Vendas Através de uma metodologia própria "Os 7Ps de vendas ", atuamos com cursos de vendas, consultoria de vendas, treinamentos de Vendas e Geração de leads para conversão em Vendas. Ajudamos nossos clientes Venderem Mais e Melhor,  contribuindo para o crescimento da empresa de uma forma equilibrada e sustentável.
+Especializada em Apoiar o Desenvolvimento Organizacional com foco nas Pessoas e Carreiras, a MLG Recursos Humanos tem como missão unir pessoas e organizações na criação de melhores resultados para ambas as partes. Apostamos na realização de um processo simples e modelado a partir da estratégia de nossos clientes. Dirigimos nossa atenção aos indivíduos, pois são eles que dão vida à estratégia.
+<p>Nossas práticas *viabilizam transformações* consistentes e sustentáveis, tanto no plano organizacional como no humano. Preparamos as organizações para alcançar melhores resultados em ambientes cada vez mais complexos e competitivos.</p>
 
 Twitter profile name
--
+vagabrasil
 
 Facebook page slug or id
-hubvendas
+Vagabrasil
 
 Linkedin page id
-hub-vendas
+3165905
 	
 Feedburner name	
 -
 
 URL to contact page
-http://www.hubvendas.com.br/
+-
+
+Youtube
+Vagabrasil
+
+Google+
+https://plus.google.com/u/0/100991885387185112970
