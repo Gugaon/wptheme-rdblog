@@ -72,18 +72,10 @@
 			</div>
 		</header>
 		<nav>
-    <?php 
-      if (has_nav_menu('menu-header')) {  
-        wp_nav_menu( array( 'theme_location' => 'menu-header', 'container' => false, ) );
-      } else {
-    ?>
 			<ul>
 				<li<?php if ( is_home() ) echo( ' class="current_page_item"' ); ?>><a href="<?php bloginfo( 'siteurl' ); ?>/">Blog</a></li>
 				<?php wp_list_pages('title_li=&depth=1'); ?>
 			</ul>
-    <?php
-      }
-    ?>
 		</nav>
 		<div id="search">
 			<form method="get" action="<?php bloginfo( 'siteurl' ); ?>/">

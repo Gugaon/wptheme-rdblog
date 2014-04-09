@@ -80,7 +80,6 @@
 				</ul>
 			</div> <!-- widget #categories -->
 
-
 			<?php if ( ! dynamic_sidebar( 'Sidebar' ) ) : ?>
 			<?php endif ?>
 

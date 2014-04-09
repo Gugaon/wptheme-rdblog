@@ -30,6 +30,5 @@
 	<div id="footer-stripe"></div>
 
 <?php wp_footer(); ?>
-
 </body>
 </html>

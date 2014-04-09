@@ -1,7 +1,6 @@
 <?php
-include (TEMPLATEPATH . '/functions-default.php');
+include (TEMPLATEPATH . '/default-functions.php');
 include (TEMPLATEPATH . '/resources-functions.php');
-include (TEMPLATEPATH . '/widgets/sticky-widget.php');
 
-$GLOBALS['TOKEN_RDSTATION'] = "SEU_TOKEN_RDSTATION_AQUI";
+$GLOBALS['TOKEN_RDSTATION'] = "23d7b3b1ba1f9b19644c495dce62ec5d";
 
