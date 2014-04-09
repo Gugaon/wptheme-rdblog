@@ -119,9 +119,6 @@ a:hover img {border-bottom: none;}
 #content > article div.entry header h3, 
 #content > article div.entry header h4 { font-weight:200;line-height:1.3;}
 
-#sidebar #subscribe { background: #D5D5D5; }
-#sidebar .widget-sidebar{ background: #e3e3e3; border:none;padding: 5px 0 25px 0;}
-
 #content > article input[type=button],
 #content > article input[type=submit],
 #content > #comments input[type=button],
@@ -136,7 +133,7 @@ a:hover img {border-bottom: none;}
 
 #wrapper > footer > header span {line-height: 25px;}
 
-#footer-stripe { height: 400px; margin-top: 0px; background-color: #D5D5D5; }
+#footer-stripe { height: 370px; margin-top: 0px; background-color: #0f325b; }
 
 #search input[type=text] {
 margin: 10px 0 0 0;
@@ -148,10 +145,21 @@ margin: 10px 0 0 0;
 }
 
 #wrapper > footer #description {
-font-size: 16px;
+font-size: 15px;
 color: white;
 }
 
 #wrapper > footer hr {
-border-bottom: 1px solid #C7C7C7;
+border-bottom: 1px solid #224288;
 }
+
+#wrapper > footer #extras h3 {
+color: white;
+}
+
+.widget-sidebar ul li {
+margin: 0 0 10px 0;
+}
+
+#sidebar #subscribe { background: #D5D5D5; }
+#sidebar .widget-sidebar{ background: #e3e3e3; border:none;padding: 5px 0 25px 0;}
