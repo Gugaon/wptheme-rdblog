@@ -46,4 +46,4 @@ a:hover { color: #d63c2b; }
 #content > article input[type=button], #content > article input[type=submit], #content > #comments input[type=button], #content > #comments input[type=submit] { color: white; background: #f68b1f; }
 #content > article input[type=button]:hover, #content > article input[type=submit]:hover, #content > #comments input[type=button]:hover, #content > #comments input[type=submit]:hover { background: #e58a2e; }
 
-#footer-stripe { height: 400px; background-color: #ebebeb; margin-top: 5px; }
+#footer-stripe {  background-color: #ebebeb; margin-top: 5px; }

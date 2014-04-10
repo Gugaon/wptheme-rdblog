@@ -1,45 +1,38 @@
-Branch:
-mlg
+Branch
+primus
 
 Customize
 
-Site Title:
-Grupo MLG
+Site Title
+Primus
 
-Tagline:
-Grupo MLG - Especializada no Recrutamento e Seleção de profissionais
+Tagline
+Primus Incorporadora e Construtora 
 
 Theme Options
 
 Blog header title
-Grupo MLG
+Primus Incorporadora e Construtora 
 
 Blog header description
-header
-Especializada no Recrutamento e Seleção de profissionais, a MLG Recursos Humanos atua apoiando clientes na captação de talentos em ambientes complexos e cada vez mais competitivos. Sua atuação é em nível Brasil, disponibilizando também o serviço de terceirização da área de Recrutamento e Seleção, alem de Pesquisas de Remuneração e Clima Organizacional.
-
+Construção de apartamentos em Navegantes, Santa Catarina. Tem o compromisso 
+de entregar aos seus clientes o "seu lugar para morar".
 
 Blog footer description
-Especializada em Apoiar o Desenvolvimento Organizacional com foco nas Pessoas e Carreiras, a MLG Recursos Humanos tem como missão unir pessoas e organizações na criação de melhores resultados para ambas as partes. Apostamos na realização de um processo simples e modelado a partir da estratégia de nossos clientes. Dirigimos nossa atenção aos indivíduos, pois são eles que dão vida à estratégia.
-<p>Nossas práticas *viabilizam transformações* consistentes e sustentáveis, tanto no plano organizacional como no humano. Preparamos as organizações para alcançar melhores resultados em ambientes cada vez mais complexos e competitivos.</p>
+Fundada em 2010, a Primus Construtora e Incorporadora foi criada para 
+atender especialmente aos segmentos residenciais de padrões médio e 
+econômico com apartamentos de 2 a 3 dormitórios. Seus projetos 
+diferenciam-se não só pela qualidade, como também pelo compromisso da 
+empresa com a entrega garantida na data prevista.
 
 Twitter profile name
-vagabrasil
+primusincorp
 
 Facebook page slug or id
-Vagabrasil
+PrimusIncorporadora
 
 Linkedin page id
-3165905
-	
-Feedburner name	
--
+primus-incorporadora
 
 URL to contact page
--
-
-Youtube
-Vagabrasil
-
-Google+
-https://plus.google.com/u/0/100991885387185112970
+www.primusincorporadora.com.br
